@@ -1,0 +1,85 @@
+<html>
+<head>
+    <meta name="theory" />
+    <title>Theory of Operation</title>
+</head>
+<body>
+    <p>
+        There are three steps that are used to generate and display the star field
+        <ol>
+            <li>Determine the size of the region of space around the planet to simulate, along with the density of stars in the region</li>
+            <li>
+                Once the number of stars are determined, generate that number of stars, the importaint parameter is the type of star (O,B,A,F,G,K,M)
+                the other parameters (radius, mass, lumonsity) can be calculate from the type.  The position of the star is calculated by generating
+                a random point inside the sphere define in step 1.
+            </li>
+            <li>
+                Once the stars have be generted, they are projected onto the surface of a sphere and then converted into a map - either using the
+                Mollweide or an Orthrographic project.
+            </li>
+        </ol>
+    </p>
+    <h2>Size of the simulation</h2>
+    <p>
+        Two parameters control the size, and hence the number of stars generated, these are the radius and density.  These can be set on the configuration
+        dialog by using the "radius of space", and the "stellar density" fields respectively.  Note that the radius is given in parsecs and the density is
+        in units of stars per parsec.
+    </p>
+    <p>
+        The estimate of 0.130262 star per cubic parsec (the defalut value), represent the value around earth.  If we set the radius to be 20 py, we would
+        generate a total of 4,365 stars
+    </p>
+
+    <h2>Generation of star properties</h2>
+    <p> The first step is to determine the type of the star. We only consider main-sequence stars here, and the distribution of the stars is given by</p>
+    <table>
+        <tr><td>class</td><td>frequency</td><td>mass, solar masses</td><td>notes</td></tr>
+        <tr><td>O </td><td>0.00003  </td><td>   < 16     </td><td>slight underestimate of type O stars</td></tr>
+        <tr><td>B </td><td>0.13000  </td><td> 2.1 - 16   </td><td></td></tr>
+        <tr><td>A </td><td>0.60000  </td><td> 1.40 - 2.10</td><td></td></tr>
+        <tr><td>F </td><td>3.00000  </td><td> 1.04 - 1.40</td><td></td></tr>
+        <tr><td>G </td><td>7.60000  </td><td> 0.80 - 1.04</td><td></td></tr>
+        <tr><td>K </td><td>12.10000 </td><td> 0.45 - 0.80</td><td></td></tr>
+        <tr><td>M </td><td>76.45000 </td><td> 0.08 - 0.45</td><td></td></tr>
+    </table>
+    <p> Note that only F,G, and K stars are believe to allow humanoid live to evolve.</p>
+    <p>
+        as mentioned above, we are only considering main-sequence stars, this means we are ignoring supergiant, giant and white dwarfs.  However, their
+        estimated density is 96 white dwarfs and four giant/supergiant per 1000 stars
+    </p>
+    <p> Once we have the stellar type we calculate the stellar mass.  We do this by picking a number, by linear interpolation, between the limits given in the above table</p>
+    <p>
+        With the stars mass, we can now calculate the other properties that we need.  First is the radius which is given by
+        M^{0.5} if the mass is greater than the sun
+        R = M^{0.8} if the mass is less than the sun
+    </p>
+    <p> Finally, we can can calculate the luminosity, or brightness, from L = M^{3.5}.</p>
+    <p> Once that stars details are determined, a location is randomly determined.</p>
+
+
+    <h3>example</h3>
+    Suppose that we are generating a star, the folloiwng steps are preformed,
+    <ol>
+        <li> A type is seleced, for example lets assume that we have a type G star</li>
+        <li>
+            Refering to the above table, the mass is between 0.80 and 1.04 solar masses, a range of 0.24.  We generate a random number between 1 and 100, say 47, and us this as a percentage of the
+            range.  Thus the mass of the star is 0.80 + 0.47*(1.04-0.80) =  0.913.  Or about 91.3% of the suns mass.
+        </li>
+        <li> Given that the mass is less that the sun, the radius is given by R = M^{0.8} = 0.913^{0.8} = 0.930, or about 93% of the suns size.</li>
+        <li> With the mass, we can calculate the luminosity, from L = M^{3.5} = (0.930)^{3.5} = 0.775, or about 77.5% as bright as the sun.</li>
+    </ol>
+
+    <h2>Mapping</h2>
+    Once the positions are determined, all the stars are projected onto a spherial shell set some distance from the planet (think of a planetarium dome).  This is done by setting the radius
+    component of each star to a constant value.  This value is determeind by the paramter "Radius of Projetion" on the configuration dialog.  While on the configuation dialog, the projection
+    can be choosen as well if a grid (and the spacing for latatiude and longitude) should be shown can be configured.
+
+
+
+    <h2>references</h2>
+    <ol>
+        <li> Artifexian, "How to build 1000 stars" <a href="https://www.youtube.com/watch?v=hG1of0MroM8"></a> </li>
+    </ol>
+
+</body>
+</html>
