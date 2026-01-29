@@ -29,9 +29,6 @@
     <ClCompile Include="2DDisplay.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3DDisplay.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="evDist.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -48,9 +45,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="nightsky.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="OGLWidget.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Projection.cpp">
@@ -126,13 +120,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <QtMoc Include="3DDisplay.h">
-      <Filter>Header Files</Filter>
-    </QtMoc>
     <QtMoc Include="nighsky.h">
-      <Filter>Header Files</Filter>
-    </QtMoc>
-    <QtMoc Include="OGLWidget.h">
       <Filter>Header Files</Filter>
     </QtMoc>
     <QtMoc Include="configDlg.h">

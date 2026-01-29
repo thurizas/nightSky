@@ -2,16 +2,16 @@
 #define NIGHSKY_H
 
 
-#include <QtWidgets/QMainWindow>
-#include <QtCore/QVariant>
-#include <QtWidgets/QAction>
-#include <QtWidgets/QApplication>
-#include <QtWidgets/QButtonGroup>
-#include <QtWidgets/QHeaderView>
-#include <QtWidgets/QMainWindow>
-#include <QtWidgets/QMenuBar>
-#include <QtWidgets/QStatusBar>
-#include <QtWidgets/QWidget>
+#include <QMainWindow>
+#include <QVariant>
+#include <QAction>
+#include <QApplication>
+#include <QButtonGroup>
+#include <QHeaderView>
+#include <QMainWindow>
+#include <QMenuBar>
+#include <QStatusBar>
+#include <QWidget>
 //#include <QGraphicsView>
 #include <QGraphicsScene>
 
@@ -183,7 +183,7 @@ private:
     starView*       m_canvas;
     helpDlg*        m_pHelp;
     starsDlg*       m_pStars;
-    C3DDisplay*     m_p3Dview;
+    //C3DDisplay*     m_p3Dview;
 
     // variables for state....
     std::vector<CStar*>  m_vecStars;

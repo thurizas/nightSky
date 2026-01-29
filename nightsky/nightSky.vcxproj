@@ -13,31 +13,31 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{7CA54884-B13E-487B-8EA7-956B286A7084}</ProjectGuid>
     <Keyword>QtVS_v304</Keyword>
-    <WindowsTargetPlatformVersion Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">10.0.18362.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">10.0</WindowsTargetPlatformVersion>
     <WindowsTargetPlatformVersion Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">10.0.18362.0</WindowsTargetPlatformVersion>
     <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt_defaults.props')">
     <Import Project="$(QtMsBuild)\qt_defaults.props" />
   </ImportGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'" Label="QtSettings">
-    <QtInstall>qt-5.15.2</QtInstall>
-    <QtModules>core;opengl;help</QtModules>
+    <QtInstall>6.6.0_msvc2019_64</QtInstall>
+    <QtModules>core;help;opengl;openglwidgets</QtModules>
     <QtBuildConfig>debug</QtBuildConfig>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'" Label="QtSettings">
-    <QtInstall>qt-5.15.2</QtInstall>
-    <QtModules>core;opengl;help</QtModules>
+    <QtInstall>6.6.0_msvc2019_64</QtInstall>
+    <QtModules>core;help;opengl;openglwidgets</QtModules>
     <QtBuildConfig>release</QtBuildConfig>
   </PropertyGroup>
   <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') or !Exists('$(QtMsBuild)\qt.props')">
@@ -55,12 +55,12 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
-    <IncludePath>D:\Libraries;$(IncludePath)</IncludePath>
+    <IncludePath>D:\Libraries\glenv\include;$(IncludePath)</IncludePath>
     <LibraryPath>D:\Libraries\GL\lib\x64;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
-    <IncludePath>D:\Libraries;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Libraries\GL\lib\x64;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\Libraries\glenv\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\Libraries\glenv\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <PostBuildEvent>
@@ -106,7 +106,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="2DDisplay.cpp" />
-    <ClCompile Include="3DDisplay.cpp" />
     <ClCompile Include="aboutDlg.cpp" />
     <ClCompile Include="CadLib.cpp" />
     <ClCompile Include="configDlg.cpp" />
@@ -117,7 +116,6 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Mollweide.cpp" />
     <ClCompile Include="nightsky.cpp" />
-    <ClCompile Include="OGLWidget.cpp" />
     <ClCompile Include="Orthrographic.cpp" />
     <ClCompile Include="Projection.cpp" />
     <ClCompile Include="Star.cpp" />
@@ -144,9 +142,7 @@
     <QtMoc Include="StarsDlg.h" />
     <QtMoc Include="starView.h" />
     <ClInclude Include="stdafx.h" />
-    <QtMoc Include="OGLWidget.h" />
     <QtMoc Include="nighsky.h" />
-    <QtMoc Include="3DDisplay.h" />
   </ItemGroup>
   <ItemGroup>
     <QtUic Include="AboutDlg.ui" />

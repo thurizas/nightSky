@@ -26,5 +26,5 @@ private:
     float                  m_fRadius;
     std::vector<ppointT>   m_vecEquator;
 
-    void COrthographic::calcEquator(int segs);
+    void calcEquator(int segs);
 };

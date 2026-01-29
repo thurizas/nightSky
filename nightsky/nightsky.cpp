@@ -45,7 +45,7 @@ const char* types[] = {"O", "B", "A", "F", "G", "K", "M"};
  ************************************************************************************************************************************************************************************/
 nightSky::nightSky(QWidget *parent) : QMainWindow(parent), m_projection(nullptr), m_pGrid(nullptr), m_pScene(nullptr), m_pStars(nullptr), m_pHelp(nullptr)
 {
-    m_p3Dview = nullptr;
+    //m_p3Dview = nullptr;
 
     readSettings();               // read settings from configuration files...
     setupUI();   
@@ -767,17 +767,17 @@ void nightSky::onExport()
     dxffile.EndTableType();                                                 // close LTYPE table type 
 
     result &= dxffile.BeginTableType(TAB_LAYER);                            // LAYER table type  
-    result &= dxffile.AddLayer("Grid", 5, "Continuous");
-    result &= dxffile.AddLayer("Stars_1", 5, "Continuous");                     // luminosity < 0.001   {0, 0.001}
-    result &= dxffile.AddLayer("Stars_2", 5, "Continuous");                     // luminosity < 0.01    {0.001, 0.010}
-    result &= dxffile.AddLayer("Stars_3", 5, "Continuous");                     // luminosity < 0.10    {0.010, 0.100 }
-    result &= dxffile.AddLayer("Stars_4", 5, "Continuous");                     // luminosity < 1.00    { 0.100, 1.00 }
-    result &= dxffile.AddLayer("Stars_5", 5, "Continuous");                     // luminosity < 10.0    { 1.00, 10.0 }
-    result &= dxffile.AddLayer("Stars_6", 5, "Continuous");                     // luminosity < 100.0   {10.0,100.0}
-    result &= dxffile.AddLayer("Stars_7", 5, "Continuous");                     // luminosity < 1000.0  {100.0,1000.0}
-    result &= dxffile.AddLayer("Stars_8", 5, "Continuous");                     // luminosity > 1000.0  {1000.0,100000}
-    result &= dxffile.AddLayer("Dust", 5, "Continuous");
-    result &= dxffile.AddLayer("Constallations", 5, "Continuous");
+    result &= dxffile.AddLayer(const_cast<char*>("Grid"), 5, const_cast<char*>("Continuous"));
+    result &= dxffile.AddLayer(const_cast<char*>("Stars_1"), 5, const_cast<char*>("Continuous"));                     // luminosity < 0.001   {0, 0.001}
+    result &= dxffile.AddLayer(const_cast<char*>("Stars_2"), 5, const_cast<char*>("Continuous"));                     // luminosity < 0.01    {0.001, 0.010}
+    result &= dxffile.AddLayer(const_cast<char*>("Stars_3"), 5, const_cast<char*>("Continuous"));                     // luminosity < 0.10    {0.010, 0.100 }
+    result &= dxffile.AddLayer(const_cast<char*>("Stars_4"), 5, const_cast<char*>("Continuous"));                     // luminosity < 1.00    { 0.100, 1.00 }
+    result &= dxffile.AddLayer(const_cast<char*>("Stars_5"), 5, const_cast<char*>("Continuous"));                     // luminosity < 10.0    { 1.00, 10.0 }
+    result &= dxffile.AddLayer(const_cast<char*>("Stars_6"), 5, const_cast<char*>("Continuous"));                     // luminosity < 100.0   {10.0,100.0}
+    result &= dxffile.AddLayer(const_cast<char*>("Stars_7"), 5, const_cast<char*>("Continuous"));                     // luminosity < 1000.0  {100.0,1000.0}
+    result &= dxffile.AddLayer(const_cast<char*>("Stars_8"), 5, const_cast<char*>("Continuous"));                     // luminosity > 1000.0  {1000.0,100000}
+    result &= dxffile.AddLayer(const_cast<char*>("Dust"), 5, const_cast<char*>("Continuous"));
+    result &= dxffile.AddLayer(const_cast<char*>("Constallations"), 5, const_cast<char*>("Continuous"));
     result &= dxffile.EndTableType();                                       // close LAYER table type  
 
     dxffile.BeginTableType(TAB_STYLE);                                      // STYLE table type 
@@ -799,12 +799,12 @@ void nightSky::onExport()
     // (3) create the entities section....
     dxffile.BeginSection(SEC_ENTITIES);                                 // Entities Section  
 
-    dxffile.SetCurrentLayer("Grid");                                    // adding the grid to the map
+    dxffile.SetCurrentLayer(const_cast<char*>("Grid"));                                    // adding the grid to the map
     dxffile.SetCurrentColor(251);                                       // set color to light gray.
      m_projection->drawGrid(m_pGrid, &dxffile);
 
     dxffile.SetCurrentColor(255);                                       // set color to black
-    dxffile.SetCurrentTextStyle("Style1");
+    dxffile.SetCurrentTextStyle(const_cast<char*>("Style1"));
     char      msg[MSG_LEN];
     struct _lumInterval
     {
@@ -824,7 +824,7 @@ void nightSky::onExport()
         dxffile.Text(msg, center.x + TEXT_HOFFSET, center.y+ VERT_SPACING *ndx - TEXT_VOFFSET, TEXT_HEIGHT);
     }
 
-    dxffile.SetCurrentLayer("Stars");
+    dxffile.SetCurrentLayer(const_cast<char*>("Stars"));
     dxffile.SetCurrentColor(2);
 
     std::vector<CStar*>::iterator      iter = m_vecStars.begin();
@@ -843,21 +843,21 @@ void nightSky::onExport()
  
         // output based on brightness 0 - 16 stars_1 through stars_5
         if ((*iter)->getLum() <= 0.001)
-            dxffile.SetCurrentLayer("stars_1");
+            dxffile.SetCurrentLayer(const_cast<char*>("stars_1"));
         else if ((*iter)->getLum() <= 0.01)
-            dxffile.SetCurrentLayer("stars_2");
+            dxffile.SetCurrentLayer(const_cast<char*>("stars_2"));
         else if ((*iter)->getLum() <= 0.1)
-            dxffile.SetCurrentLayer("stars_3");
+            dxffile.SetCurrentLayer(const_cast<char*>("stars_3"));
         else if ((*iter)->getLum() <= 1.00)
-            dxffile.SetCurrentLayer("stars_4");
+            dxffile.SetCurrentLayer(const_cast<char*>("stars_4"));
         else if ((*iter)->getLum() <= 10.00)
-            dxffile.SetCurrentLayer("stars_5");
+            dxffile.SetCurrentLayer(const_cast<char*>("stars_5"));
         else if ((*iter)->getLum() <= 100)
-            dxffile.SetCurrentLayer("stars_6");
+            dxffile.SetCurrentLayer(const_cast<char*>("stars_6"));
         else if ((*iter)->getLum() <= 1000)
-            dxffile.SetCurrentLayer("stars_7");
+            dxffile.SetCurrentLayer(const_cast<char*>("stars_7"));
         else
-            dxffile.SetCurrentLayer("stars_8");
+            dxffile.SetCurrentLayer(const_cast<char*>("stars_8"));
 
 
         (*iter)->draw(m_projection, &dxffile);
@@ -1077,21 +1077,21 @@ void nightSky::onViewStars()
  ************************************************************************************************************************************************************************************/
 void nightSky::onView3D()
 {
-    if(m_p3Dview == nullptr)                // never instatiated the view yet...
-    {
-        m_p3Dview = new C3DDisplay(nullptr);
-    }
+    //if(m_p3Dview == nullptr)                // never instatiated the view yet...
+    //{
+    //    m_p3Dview = new C3DDisplay(nullptr);
+    //}
 
-    if(!m_b3DShown)             // 3D dispaly not created yet.
-    {
-        m_p3Dview->show();
-        m_b3DShown = true;
-    }
-    else
-    {
-        m_p3Dview->hide();
-        m_b3DShown=false;
-    }
+    //if(!m_b3DShown)             // 3D dispaly not created yet.
+    //{
+    //    m_p3Dview->show();
+    //    m_b3DShown = true;
+    //}
+    //else
+    //{
+    //    m_p3Dview->hide();
+    //    m_b3DShown=false;
+    //}
 
     qDebug() << "in onView3D";
 }

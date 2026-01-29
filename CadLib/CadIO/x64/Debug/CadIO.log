@@ -1,0 +1,1706 @@
+﻿     0>Search paths being used for $(MSBuildExtensionsPath) are D:\VS2019\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Trying to import D:\VS2019\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.props using extensions path D:\VS2019\MSBuild
+       Property reassignment: $(MSBuildProjectExtensionsPath)="D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\obj\" (previous value: "obj\") at D:\VS2019\MSBuild\Current\Microsoft.Common.props (56,5)
+       Search paths being used for $(MSBuildExtensionsPath) are D:\VS2019\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Trying to import D:\VS2019\MSBuild\$(MSBuildToolsVersion)\Imports\Microsoft.Common.props\ImportBefore\* using extensions path D:\VS2019\MSBuild
+       Search paths being used for $(MSBuildExtensionsPath) are D:\VS2019\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       The "Configuration" property is a global property, and cannot be modified.
+       Search paths being used for $(MSBuildExtensionsPath) are D:\VS2019\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Search paths being used for $(MSBuildExtensionsPath) are D:\VS2019\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       The "Configuration" property is a global property, and cannot be modified.
+       Property reassignment: $(PlatformToolset)="v100" (previous value: "") at D:\VS2019\MSBuild\Microsoft\VC\v160\Platforms\x64\Platform.Default.props (29,5)
+       The "LangID" property is a global property, and cannot be modified.
+       The "SolutionDir" property is a global property, and cannot be modified.
+       Property reassignment: $(ConfigurationType)="DynamicLibrary" (previous value: "Application") at D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj (47,5)
+       Property reassignment: $(CharacterSet)="MultiByte" (previous value: "NotSet") at D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj (49,5)
+       Property reassignment: $(PlatformToolset)="v142" (previous value: "v100") at D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj (50,5)
+       Property reassignment: $(WindowsSDK_ExecutablePath_x86)="C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools" (previous value: "C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.WindowsSDK.props (192,5)
+       Property reassignment: $(WindowsSDK_ExecutablePath_x64)="C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64" (previous value: "C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.WindowsSDK.props (193,5)
+       Property reassignment: $(TargetExt)=".dll" (previous value: "") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (37,5)
+       Property reassignment: $(VC_ExecutablePath_Loc)="D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x86\1033;;;" (previous value: "D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x86\1033;;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (94,5)
+       Property reassignment: $(VC_ExecutablePath_Loc)="D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x86\1033;;;;" (previous value: "D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x86\1033;;;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (95,5)
+       Property reassignment: $(VC_ExecutablePath_Loc)="D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x86\1033;;;;;" (previous value: "D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x86\1033;;;;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (96,5)
+       Property reassignment: $(VC_ExecutablePath_Loc)="D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x86\1033;;;;;;" (previous value: "D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x86\1033;;;;;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (97,5)
+       Property reassignment: $(VC_ExecutablePath_Loc)="D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x86\1033;;;;;;;" (previous value: "D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x86\1033;;;;;;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (98,5)
+       Property reassignment: $(VC_ExecutablePath_Loc)="D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\arm64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x86\1033;;;;;;;;" (previous value: "D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\arm\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\1033;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x86\1033;;;;;;;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (99,5)
+       Property reassignment: $(RemoteDebuggerDeployCppRuntime)="true" (previous value: "false") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (150,5)
+       Property reassignment: $(MultiProcMaxCount)="0" (previous value: "") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (205,5)
+       Property reassignment: $(EspXtensions)="EnumIndex.dll;CppCoreCheck.dll;" (previous value: "CppCoreCheck.dll;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CodeAnalysis.Extensions.props (21,5)
+       Property reassignment: $(EspXtensions)="HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;" (previous value: "EnumIndex.dll;CppCoreCheck.dll;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CodeAnalysis.Extensions.props (24,5)
+       Property reassignment: $(EspXtensions)="VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;" (previous value: "HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CodeAnalysis.Extensions.props (27,5)
+       Property reassignment: $(EspXtensions)="ConcurrencyCheck.dll;VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;" (previous value: "VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CodeAnalysis.Extensions.props (32,5)
+       Property reassignment: $(MsvcAnalysisToolsPath)="D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64" (previous value: "D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX64\x86") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Analysis.props (29,5)
+       Property reassignment: $(VC_IncludePath)="D:\VS2019\VC\Tools\MSVC\14.28.29333\include;;D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\include;;D:\VS2019\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;;D:\VS2019\VC\Auxiliary\VS\UnitTest\include" (previous value: "D:\VS2019\VC\Tools\MSVC\14.28.29333\include;;D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\include;;D:\VS2019\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.UnitTest.props (17,5)
+       Property reassignment: $(VC_LibraryPath_x86)="D:\VS2019\VC\Tools\MSVC\14.28.29333\lib\x86;;D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\lib\x86;;D:\VS2019\VC\Auxiliary\VS\lib\x86;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x86;;;D:\VS2019\VC\Auxiliary\VS\UnitTest\lib" (previous value: "D:\VS2019\VC\Tools\MSVC\14.28.29333\lib\x86;;D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\lib\x86;;D:\VS2019\VC\Auxiliary\VS\lib\x86;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x86;;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.UnitTest.props (19,5)
+       Property reassignment: $(VC_LibraryPath_x64)="D:\VS2019\VC\Tools\MSVC\14.28.29333\lib\x64;;D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\lib\x64;;D:\VS2019\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64;;;D:\VS2019\VC\Auxiliary\VS\UnitTest\lib" (previous value: "D:\VS2019\VC\Tools\MSVC\14.28.29333\lib\x64;;D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\lib\x64;;D:\VS2019\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64;;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.UnitTest.props (20,5)
+       Property reassignment: $(VC_LibraryPath_ARM)="D:\VS2019\VC\Tools\MSVC\14.28.29333\lib\ARM;;D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\lib\ARM;;D:\VS2019\VC\Auxiliary\VS\lib\ARM;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\arm;;;D:\VS2019\VC\Auxiliary\VS\UnitTest\lib" (previous value: "D:\VS2019\VC\Tools\MSVC\14.28.29333\lib\ARM;;D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\lib\ARM;;D:\VS2019\VC\Auxiliary\VS\lib\ARM;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\arm;;") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.UnitTest.props (21,5)
+       Property reassignment: $(_PropertySheetDisplayName)="Multi-byte Character Support" (previous value: "Core Windows Libraries") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.MultiByteCharSupport.props (15,5)
+       Property reassignment: $(_PropertySheetDisplayName)="Windows Dynamic Link Library" (previous value: "Multi-byte Character Support") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.WinDLL.props (15,5)
+       Property reassignment: $(_PropertySheetDisplayName)="Upgrade from VC 6.0" (previous value: "Windows Dynamic Link Library") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.UpgradeFromVC60.props (15,5)
+       The "SolutionExt" property is a global property, and cannot be modified.
+       Property reassignment: $(ExtensionsToDeleteOnClean)="*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi;D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\CadIO.dll.manifest;D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\CadIO.tlb;D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\CadIO.pdb;D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\CadIO.dll;D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\CadIO.bsc;D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\CadIO.ilk;D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\CadIO.dll.intermediate.manifest;" (previous value: "*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (36,5)
+       Search paths being used for $(MSBuildExtensionsPath) are D:\VS2019\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Search paths being used for $(MSBuildExtensionsPath) are D:\VS2019\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Trying to import D:\VS2019\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportBefore\* using extensions path D:\VS2019\MSBuild
+       Search paths being used for $(MSBuildExtensionsPath) are D:\VS2019\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Search paths being used for $(MSBuildExtensionsPath) are D:\VS2019\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       The "Configuration" property is a global property, and cannot be modified.
+       Property reassignment: $(_DebugSymbolsProduced)="true" (previous value: "false") at D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (150,5)
+       Property reassignment: $(_DocumentationFileProduced)="false" (previous value: "true") at D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (159,5)
+       Property reassignment: $(TargetDir)="D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\" (previous value: "D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug") at D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (287,5)
+       The "DevEnvDir" property is a global property, and cannot be modified.
+       The "SolutionName" property is a global property, and cannot be modified.
+       The "SolutionFileName" property is a global property, and cannot be modified.
+       The "SolutionPath" property is a global property, and cannot be modified.
+       The "SolutionDir" property is a global property, and cannot be modified.
+       The "SolutionExt" property is a global property, and cannot be modified.
+       Property reassignment: $(ProcessorArchitecture)="amd64" (previous value: "x64") at D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (477,5)
+       Property reassignment: $(DelaySign)="" (previous value: "false") at D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (530,5)
+       Property reassignment: $(_SGenGenerateSerializationAssembliesConfig)="Auto" (previous value: "") at D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (3530,5)
+       Property reassignment: $(_SGenGenerateSerializationAssembliesConfig)="Off" (previous value: "Auto") at D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (3531,5)
+       Property reassignment: $(CAExcludePath)="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;" (previous value: "C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;") at D:\VS2019\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (236,5)
+       Property reassignment: $(CAExcludePath)="D:\VS2019\VC\Tools\MSVC\14.28.29333\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;" (previous value: "C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;") at D:\VS2019\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (237,5)
+       Property reassignment: $(CAExcludePath)="D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\include;D:\VS2019\VC\Tools\MSVC\14.28.29333\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;" (previous value: "D:\VS2019\VC\Tools\MSVC\14.28.29333\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;") at D:\VS2019\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (238,5)
+       Property reassignment: $(PrepareForBuildDependsOn)=";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables" (previous value: ";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata") at D:\VS2019\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (241,5)
+       Search paths being used for $(MSBuildExtensionsPath) are D:\VS2019\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Property reassignment: $(ResolveReferencesDependsOn)="
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           " (previous value: "
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ") at D:\VS2019\MSBuild\Current\Bin\Microsoft.NETFramework.CurrentVersion.targets (75,5)
+       Property reassignment: $(PrepareResourceNamesDependsOn)="
+                           AssignWinFXEmbeddedResource;
+                           
+             AssignTargetPaths;
+             SplitResourcesByCulture;
+             CreateManifestResourceNames;
+             CreateCustomManifestResourceNames
+           
+             " (previous value: "
+             AssignTargetPaths;
+             SplitResourcesByCulture;
+             CreateManifestResourceNames;
+             CreateCustomManifestResourceNames
+           ") at C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (97,7)
+       Property reassignment: $(PrepareResourcesDependsOn)="
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+             " (previous value: "
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           ") at C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (108,7)
+       Property reassignment: $(CompileDependsOn)="
+               
+             ResolveReferences;
+             ResolveKeySource;
+             SetWin32ManifestProperties;
+             FindReferenceAssembliesForReferences;
+             _GenerateCompileInputs;
+             BeforeCompile;
+             _TimeStampBeforeCompile;
+             _GenerateCompileDependencyCache;
+             CoreCompile;
+             _TimeStampAfterCompile;
+             AfterCompile;
+           ;
+               _AfterCompileWinFXInternal
+           " (previous value: "
+             ResolveReferences;
+             ResolveKeySource;
+             SetWin32ManifestProperties;
+             FindReferenceAssembliesForReferences;
+             _GenerateCompileInputs;
+             BeforeCompile;
+             _TimeStampBeforeCompile;
+             _GenerateCompileDependencyCache;
+             CoreCompile;
+             _TimeStampAfterCompile;
+             AfterCompile;
+           ") at C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (184,5)
+       Property reassignment: $(PublishBuildDependsOn)="
+                   BuildOnlySettings;
+                   PrepareForBuild;
+                   ResolveReferences;
+                   PrepareResources;
+                   ResolveKeySource;
+                   PrepareResourcesForSatelliteAssemblies;
+                   GenerateSerializationAssemblies;
+                   CreateSatelliteAssemblies;
+               " (previous value: "
+             BuildOnlySettings;
+             PrepareForBuild;
+             ResolveReferences;
+             PrepareResources;
+             ResolveKeySource;
+             GenerateSerializationAssemblies;
+             CreateSatelliteAssemblies;
+           ") at C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (813,9)
+       Property reassignment: $(BuildDependsOn)="
+             EntityDeploy;
+             
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           
+           " (previous value: "
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           ") at C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Data.Entity.targets (35,5)
+       Property reassignment: $(CleanDependsOn)="
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           " (previous value: "
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ") at C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Data.Entity.targets (42,5)
+       Search paths being used for $(MSBuildExtensionsPath) are D:\VS2019\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Property reassignment: $(PrepareResourcesDependsOn)="
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+              
+           " (previous value: "
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+             ") at C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets (35,5)
+       Property reassignment: $(CoreCompileDependsOn)="
+               DesignTimeXamlMarkupCompilation;
+               
+                 DesignTimeMarkupCompilation;
+                 
+             
+           " (previous value: "
+                 DesignTimeMarkupCompilation;
+                 
+             ") at C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets (76,5)
+       Property reassignment: $(ResolveReferencesDependsOn)="
+             
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ;
+             ResolveTestReferences
+           " (previous value: "
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ") at D:\VS2019\MSBuild\Microsoft\VisualStudio\v16.0\TeamTest\Microsoft.TeamTest.targets (4,5)
+       Property reassignment: $(MSBuildAllProjects)=";D:\VS2019\MSBuild\Current\Bin\Microsoft.Xaml.targets;D:\VS2019\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets" (previous value: ";D:\VS2019\MSBuild\Current\Bin\Microsoft.Xaml.targets") at D:\VS2019\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets (46,5)
+       Search paths being used for $(MSBuildExtensionsPath) are D:\VS2019\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Trying to import D:\VS2019\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportAfter\* using extensions path D:\VS2019\MSBuild
+       Search paths being used for $(MSBuildExtensionsPath) are D:\VS2019\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Trying to import D:\VS2019\MSBuild\Sdks\Microsoft.Docker.Sdk\build\Microsoft.Docker.targets using extensions path D:\VS2019\MSBuild
+       Property reassignment: $(ProjectLockFile)="obj\project.assets.json" (previous value: "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\obj\project.assets.json") at D:\VS2019\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (74,5)
+       Property reassignment: $(MSBuildAllProjects)=";D:\VS2019\MSBuild\Current\Bin\Microsoft.Xaml.targets;D:\VS2019\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;D:\VS2019\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets" (previous value: ";D:\VS2019\MSBuild\Current\Bin\Microsoft.Xaml.targets;D:\VS2019\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets") at D:\VS2019\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (79,5)
+       Property reassignment: $(ResolveAssemblyReferencesDependsOn)="
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets" (previous value: "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ") at D:\VS2019\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (185,5)
+       Property reassignment: $(PrepareResourcesDependsOn)="ResolveNuGetPackageAssets;
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+              
+           " (previous value: "
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+              
+           ") at D:\VS2019\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (186,5)
+       Property reassignment: $(_HandlePackageFileConflictsAfter)="ResolveNuGetPackageAssets;ResolveNuGetPackageAssetsNonAOT" (previous value: "ResolveNuGetPackageAssets") at D:\VS2019\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (267,5)
+       Search paths being used for $(MSBuildExtensionsPath) are D:\VS2019\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Property reassignment: $(BuildDependsOn)="
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           " (previous value: "
+             EntityDeploy;
+             
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (96,5)
+       Property reassignment: $(RebuildDependsOn)="
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           " (previous value: "
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (104,5)
+       Property reassignment: $(CleanDependsOn)="
+             _PrepareForClean;
+             
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ;
+           " (previous value: "
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (109,5)
+       Property reassignment: $(BeforeBuildGenerateSourcesTargets)="
+             
+             ;
+             BeforeBuildGenerateSources;
+           ;
+           " (previous value: "
+             ;
+             BeforeBuildGenerateSources;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (65,5)
+       Property reassignment: $(AfterBuildGenerateSourcesTargets)="
+             
+             ;
+             AfterBuildGenerateSources;
+           ;
+             AfterBuildGenerateSourcesEvent;
+           " (previous value: "
+             ;
+             AfterBuildGenerateSources;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (76,5)
+       Property reassignment: $(BuildGenerateSourcesAction)="_BuildGenerateSourcesAction" (previous value: "Build") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (137,5)
+       Property reassignment: $(BuildCompileAction)="_BuildCompileAction" (previous value: "Build") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (138,5)
+       Property reassignment: $(BuildLinkAction)="_BuildLinkAction" (previous value: "Build") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (139,5)
+       Property reassignment: $(GetReferenceAssemblyPathsDependsOn)="_PrepareForReferenceResolution;
+               ;
+               GetWinFXPath
+           " (previous value: "
+               ;
+               GetWinFXPath
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (144,5)
+       Property reassignment: $(ResolveReferencesDependsOn)="_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ;
+             ResolveTestReferences
+           " (previous value: "
+             
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ;
+             ResolveTestReferences
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (296,5)
+       Property reassignment: $(ResolveAssemblyReferencesDependsOn)="_PrepareForReferenceResolution;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets" (previous value: "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (297,5)
+       Property reassignment: $(ResolveSDKReferencesDependsOn)="_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             GetInstalledSDKLocations
+           " (previous value: "
+             GetInstalledSDKLocations
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (298,5)
+       Property reassignment: $(ComputeCompileInputsTargets)="
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           " (previous value: "
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (590,5)
+       Property reassignment: $(ComputeLinkInputsTargets)="
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           " (previous value: "
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (903,5)
+       Property reassignment: $(GetTargetPathDependsOn)="_PrepareForReferenceResolution;GetResolvedWinMD;" (previous value: "") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1073,5)
+       Property reassignment: $(ComputeCompileInputsTargets)="
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           " (previous value: "
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1099,5)
+       Property reassignment: $(ComputeLinkInputsTargets)="
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           " (previous value: "
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1151,5)
+       Property reassignment: $(ComputeLibInputsTargets)="
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           " (previous value: "
+             ;
+             ComputeRCGeneratedLibInputs;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1158,5)
+       Property reassignment: $(ComputeImpLibInputsTargets)="
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           " (previous value: "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1165,5)
+       Property reassignment: $(ComputeLinkInputsTargets)="
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           " (previous value: "
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1225,5)
+       Property reassignment: $(ComputeLibInputsTargets)="
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           " (previous value: "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1240,5)
+       Property reassignment: $(ComputeImpLibInputsTargets)="
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           " (previous value: "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1255,5)
+       Property reassignment: $(ComputeLinkInputsTargets)="
+               
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+               ComputeLinkInputsFromProject;
+             " (previous value: "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1286,7)
+       Property reassignment: $(ComputeLibInputsTargets)="
+               
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+               ComputeLibInputsFromProject;
+             " (previous value: "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1304,7)
+       Property reassignment: $(ComputeImpLibInputsTargets)="
+               
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ;
+               ComputeImpLibInputsFromProject;
+             " (previous value: "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1322,7)
+       Property reassignment: $(ComputeLinkInputsTargets)="
+             
+               
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+               ComputeLinkInputsFromProject;
+             ;
+             ComputeReferenceLinkInputs;
+           " (previous value: "
+               
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+               ComputeLinkInputsFromProject;
+             ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1466,5)
+       Property reassignment: $(ComputeLibInputsTargets)="
+             
+               
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+               ComputeLibInputsFromProject;
+             ;
+             ComputeReferenceLibInputs;
+           " (previous value: "
+               
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+               ComputeLibInputsFromProject;
+             ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1504,5)
+       Property reassignment: $(ComputeLibInputsTargets)="
+             ComputeLibAdditionalOptions;
+             
+             
+               
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+               ComputeLibInputsFromProject;
+             ;
+             ComputeReferenceLibInputs;
+           
+           " (previous value: "
+             
+               
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+               ComputeLibInputsFromProject;
+             ;
+             ComputeReferenceLibInputs;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1561,5)
+       Property reassignment: $(GetProjectInfoForReferenceDependsOn)="
+             
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ;
+             AddPublicBMIsToProjectsInfoForReference;
+             AddDeployRecipeFileToProjectsInfoForReference;
+             AddLibrariesToProjectsInfoForReference;
+           " (previous value: "
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1748,5)
+       Property reassignment: $(DocumentationProjectOutputGroupDependsOn)="ResolvedXDCMake;ComputeCLCompileGeneratedXDCFiles" (previous value: "") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (2135,5)
+       Property reassignment: $(ContentFilesProjectOutputGroupDependsOn)="PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc" (previous value: "PrepareForBuild;AssignTargetPaths") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (2201,5)
+       Property reassignment: $(ComputeCompileInputsTargets)="
+             
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ;
+             ;
+             FixupCLCompileOptions;
+           " (previous value: "
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (299,5)
+       Property reassignment: $(BuildingProject)="true" (previous value: "false") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (1895,5)
+       Property reassignment: $(ContentFilesProjectOutputGroupDependsOn)="PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc;_CreateCopyFileItems;" (previous value: "PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (2404,5)
+       Property reassignment: $(PrepareForBuildDependsOn)="_CheckWindowsSDKInstalled;;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables" (previous value: ";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.WindowsSDK.targets (16,5)
+       Property reassignment: $(CleanDependsOn)="
+             
+             _PrepareForClean;
+             
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ;
+           ;
+             CppClean
+           " (previous value: "
+             _PrepareForClean;
+             
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets (22,5)
+       Property reassignment: $(CppCleanDependsOn)="
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ;PGInstrumentedClean" (previous value: "
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets (92,5)
+       Property reassignment: $(BuildDependsOn)="SetTelemetryEnvironmentVariables;
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           " (previous value: "
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets (535,5)
+       Property reassignment: $(RebuildDependsOn)="SetTelemetryEnvironmentVariables;
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           " (previous value: "
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ") at D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets (536,5)
+       Overriding target "GetFrameworkPaths" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "GetFrameworkPaths" from project "D:\VS2019\MSBuild\Current\Bin\Microsoft.NETFramework.CurrentVersion.targets".
+       Overriding target "SatelliteDllsProjectOutputGroup" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "SatelliteDllsProjectOutputGroup" from project "C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets".
+       Overriding target "GenerateTargetFrameworkMonikerAttribute" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "GenerateTargetFrameworkMonikerAttribute" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets".
+       Overriding target "Build" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "Build" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets".
+       Overriding target "Rebuild" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "Rebuild" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets".
+       Overriding target "AfterBuild" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "AfterBuild" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets".
+       Overriding target "PrepareForBuild" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "PrepareForBuild" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "GetTargetPath" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "GetTargetPath" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "ComputeIntermediateSatelliteAssemblies" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "ComputeIntermediateSatelliteAssemblies" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "ClCompile" in project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "ClCompile" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "ResourceCompile" in project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "ResourceCompile" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "Lib" in project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "Lib" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "Link" in project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "Link" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "AllProjectOutputGroups" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "AllProjectOutputGroups" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "BuiltProjectOutputGroup" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "BuiltProjectOutputGroup" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "DebugSymbolsProjectOutputGroup" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "DebugSymbolsProjectOutputGroup" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "DocumentationProjectOutputGroup" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "DocumentationProjectOutputGroup" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "SourceFilesProjectOutputGroup" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "SourceFilesProjectOutputGroup" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "ContentFilesProjectOutputGroup" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "ContentFilesProjectOutputGroup" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "AllProjectOutputGroupsDependencies" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "AllProjectOutputGroupsDependencies" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "BuiltProjectOutputGroupDependencies" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "BuiltProjectOutputGroupDependencies" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "DebugSymbolsProjectOutputGroupDependencies" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "DebugSymbolsProjectOutputGroupDependencies" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "DocumentationProjectOutputGroupDependencies" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "DocumentationProjectOutputGroupDependencies" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "PreBuildEvent" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "PreBuildEvent" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "PostBuildEvent" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "PostBuildEvent" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "ClCompile" in project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "ClCompile" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "Link" in project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "Link" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "Lib" in project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "Lib" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "ImpLib" in project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "ImpLib" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "Midl" in project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "Midl" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "ResourceCompile" in project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "ResourceCompile" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "BeforeResGen" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "BeforeResGen" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "ResGen" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "ResGen" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "GenerateSatelliteAssemblies" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "GenerateSatelliteAssemblies" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "Manifest" in project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "Manifest" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "XdcMake" in project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "XdcMake" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "BscMake" in project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "BscMake" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "ComputeMetaGenInputs" in project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.MetaGen.targets" with target "ComputeMetaGenInputs" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "GetNativeManifest" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "GetNativeManifest" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "GetTargetPathWithTargetPlatformMoniker" in project "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "GetTargetPathWithTargetPlatformMoniker" from project "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets".
+Build started 11/26/2021 01:22:33 PM.
+Logging verbosity is set to: Detailed.     1>Project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" on node 2 (Rebuild target(s)).
+     1>Building with tools version "Current".
+       Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="Current". For more information, please see http://go.microsoft.com/fwlink/?LinkId=293424.
+       Target "EnableIntermediateOutputPathMismatchWarning" skipped, due to false condition; ('$(RestoreProjectStyle)' == 'PackageReference') was evaluated as ('' == 'PackageReference').
+     1>Target "_CheckForInvalidConfigurationAndPlatform" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "SetTelemetryEnvironmentVariables" depends on it):
+       Task "Error" skipped, due to false condition; ( '$(_InvalidConfigurationError)' == 'true' ) was evaluated as ( '' == 'true' ).
+       Task "Warning" skipped, due to false condition; ( '$(_InvalidConfigurationWarning)' == 'true' ) was evaluated as ( '' == 'true' ).
+       Using "Message" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "Message"
+         Configuration=Debug
+       Done executing task "Message".
+       Task "Message"
+         Platform=x64
+       Done executing task "Message".
+       Task "Error" skipped, due to false condition; ('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)')) was evaluated as ('D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\' != '' and !HasTrailingSlash('D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\')).
+       Task "Error" skipped, due to false condition; ('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)')) was evaluated as ('obj\' != '' and !HasTrailingSlash('obj\')).
+       Task "Error" skipped, due to false condition; ('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)')) was evaluated as ('x64\Debug\' != '' and !HasTrailingSlash('x64\Debug\')).
+       Task "Error" skipped, due to false condition; ( '$(_InitialMSBuildProjectExtensionsPath)' != '' And '$(MSBuildProjectExtensionsPath)' != '$(_InitialMSBuildProjectExtensionsPath)' ) was evaluated as ( 'D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\obj\' != '' And 'D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\obj\' != 'D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\obj\' ).
+       Task "Warning" skipped, due to false condition; ( '$(EnableBaseIntermediateOutputPathMismatchWarning)' == 'true' And '$(_InitialBaseIntermediateOutputPath)' != '$(BaseIntermediateOutputPath)' And '$(BaseIntermediateOutputPath)' != '$(MSBuildProjectExtensionsPath)' ) was evaluated as ( '' == 'true' And 'obj\' != 'obj\' And 'obj\' != 'D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\obj\' ).
+     1>Done building target "_CheckForInvalidConfigurationAndPlatform" in project "CadIO.vcxproj".
+       Target "_CheckForInvalidConfigurationAndPlatform" skipped. Previously built successfully.
+     1>Target "SetTelemetryEnvironmentVariables" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Rebuild" depends on it):
+       Using "SetEnv" task from assembly "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Task "SetEnv"
+         VSTEL_SolutionSessionID={51911D28-D533-4544-B65B-9F3C3FD7A5A1}
+       Done executing task "SetEnv".
+       Task "SetEnv"
+         VSTEL_CurrentSolutionBuildID=1568413283
+       Done executing task "SetEnv".
+       Task "SetEnv"
+         VSTEL_ProjectID={04186C24-CED5-6E8E-1B59-12236CD638F1}
+       Done executing task "SetEnv".
+     1>Done building target "SetTelemetryEnvironmentVariables" in project "CadIO.vcxproj".
+     1>Target "_PrepareForRebuild" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Rebuild" depends on it):
+     1>Done building target "_PrepareForRebuild" in project "CadIO.vcxproj".
+     1>Target "BeforeRebuild" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Rebuild" depends on it):
+     1>Done building target "BeforeRebuild" in project "CadIO.vcxproj".
+     1>Target "_PrepareForClean" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Clean" depends on it):
+       Using "Delete" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "Delete"
+         Deleting file "x64\Debug\CadIO.tlog\CadIO.lastbuildstate".
+       Done executing task "Delete".
+     1>Done building target "_PrepareForClean" in project "CadIO.vcxproj".
+     1>Target "BeforeClean" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Clean" depends on it):
+     1>Done building target "BeforeClean" in project "CadIO.vcxproj".
+       Target "UnmanagedUnregistration" skipped, due to false condition; ((('$(_AssemblyTimestampBeforeCompile)' != '$(_AssemblyTimestampAfterCompile)' or '$(RegisterForComInterop)' != 'true' or '$(OutputType)' != 'library') or
+                           ('$(_AssemblyTimestampBeforeCompile)' == '')) and
+                          Exists('@(_UnmanagedRegistrationCache)')) was evaluated as ((('' != '' or '' != 'true' or 'library' != 'library') or
+                           ('' == '')) and
+                          Exists('obj\CadIO.vcxproj.UnmanagedRegistration.cache')).
+     1>Target "CoreClean" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Clean" depends on it):
+       Task "Delete"
+         File "x64\Debug\\TempCA\CadIO.pdb" doesn't exist. Skipping.
+         File "x64\Debug\\TempCA\CadIO.dll" doesn't exist. Skipping.
+       Done executing task "Delete".
+       Using "ReadLinesFromFile" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "ReadLinesFromFile"
+       Done executing task "ReadLinesFromFile".
+       Using "FindUnderPath" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "FindUnderPath"
+         Comparison path is "D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\".
+       Done executing task "FindUnderPath".
+       Task "FindUnderPath"
+         Comparison path is "x64\Debug\".
+       Done executing task "FindUnderPath".
+       Task "Delete"
+       Done executing task "Delete".
+       Using "RemoveDuplicates" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "RemoveDuplicates"
+       Done executing task "RemoveDuplicates".
+       Using "MakeDir" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "MakeDir"
+       Done executing task "MakeDir".
+       Using "WriteLinesToFile" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "WriteLinesToFile"
+       Done executing task "WriteLinesToFile".
+     1>Done building target "CoreClean" in project "CadIO.vcxproj".
+     1>Target "AssignProjectConfiguration" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "PrepareProjectReferences" depends on it):
+       Using "AssignProjectConfiguration" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "AssignProjectConfiguration"
+       Done executing task "AssignProjectConfiguration".
+     1>Done building target "AssignProjectConfiguration" in project "CadIO.vcxproj".
+     1>Target "_SplitProjectReferencesByFileExistence" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "PrepareProjectReferences" depends on it):
+       Task "ResolveNonMSBuildProjectOutput" skipped, due to false condition; ('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!='') was evaluated as ('true'=='true' and ''!='').
+     1>Done building target "_SplitProjectReferencesByFileExistence" in project "CadIO.vcxproj".
+     1>Target "_GetProjectReferenceTargetFrameworkProperties" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "PrepareProjectReferences" depends on it):
+       Using "MSBuild" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "MSBuild"
+       Done executing task "MSBuild".
+       Task "GetReferenceNearestTargetFrameworkTask" skipped, due to false condition; ('@(_ProjectReferenceTargetFrameworkPossibilities->Count())' != '0' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' == 'true') was evaluated as ('0' != '0' and '.NETFramework,Version=v4.0' != ''
+                                                               And 'true' == 'true').
+       Task "GetReferenceNearestTargetFrameworkTask" skipped, due to false condition; ('@(_ProjectReferenceTargetFrameworkPossibilities->Count())' != '0' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' != 'true') was evaluated as ('0' != '0' and '.NETFramework,Version=v4.0' != ''
+                                                               And 'true' != 'true').
+     1>Done building target "_GetProjectReferenceTargetFrameworkProperties" in project "CadIO.vcxproj".
+     1>Target "PrepareProjectReferences" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "CleanReferencedProjects" depends on it):
+     1>Done building target "PrepareProjectReferences" in project "CadIO.vcxproj".
+     1>Target "CleanReferencedProjects" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Clean" depends on it):
+       Task "MSBuild" skipped, due to false condition; ('$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('true' != 'true' and 'true' == 'true' and '' != '').
+     1>Done building target "CleanReferencedProjects" in project "CadIO.vcxproj".
+     1>Target "CleanPublishFolder" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Clean" depends on it):
+       Task "RemoveDir" skipped, due to false condition; ('$(PublishDir)'=='$(OutputPath)app.publish\' and Exists('$(PublishDir)')) was evaluated as ('D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\app.publish\'=='D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\app.publish\' and Exists('D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\app.publish\')).
+     1>Done building target "CleanPublishFolder" in project "CadIO.vcxproj".
+     1>Target "AfterClean" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Clean" depends on it):
+     1>Done building target "AfterClean" in project "CadIO.vcxproj".
+       Target "EntityClean" skipped, due to false condition; ('@(EntityDeploy)' != '') was evaluated as ('' != '').
+     1>Target "BeforeCppClean" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "CppClean" depends on it):
+     1>Done building target "BeforeCppClean" in project "CadIO.vcxproj".
+     1>Target "CoreCppClean" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "CppClean" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+       Using "CppClean" task from assembly "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Task "CppClean"
+       Done executing task "CppClean".
+       Task "WriteLinesToFile"
+       Done executing task "WriteLinesToFile".
+     1>Done building target "CoreCppClean" in project "CadIO.vcxproj".
+     1>Target "AfterCppClean" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "CppClean" depends on it):
+     1>Done building target "AfterCppClean" in project "CadIO.vcxproj".
+     1>Target "PGInstrumentedClean" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "CppClean" depends on it):
+       Task "Delete"
+       Done executing task "Delete".
+     1>Done building target "PGInstrumentedClean" in project "CadIO.vcxproj".
+     1>Target "CppClean" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Clean" depends on it):
+     1>Done building target "CppClean" in project "CadIO.vcxproj".
+     1>Target "Clean" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Rebuild" depends on it):
+     1>Done building target "Clean" in project "CadIO.vcxproj".
+       Target "SetTelemetryEnvironmentVariables" skipped. Previously built successfully.
+     1>Target "_PrepareForBuild" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Build" depends on it):
+       Task "CreateItem" skipped, due to false condition; ('%(CustomBuild.IncludeFileToTool)'!='') was evaluated as (''!='').
+     1>Done building target "_PrepareForBuild" in project "CadIO.vcxproj".
+     1>Target "_PrepareForReferenceResolution" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ResolveReferences" depends on it):
+       Task "Message" skipped, due to false condition; ('$(_REFERENCE_DEBUG)'=='true') was evaluated as (''=='true').
+     1>Done building target "_PrepareForReferenceResolution" in project "CadIO.vcxproj".
+       Target "ComputeCrtSDKReference" skipped, due to false condition; ('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false') was evaluated as ('..\DXFFile\Read\DRBlocks.cpp;..\DXFFile\Read\DREntities.cpp;..\DXFFile\Read\DRTables.cpp;...'!='' and 'false'=='true' and '' != 'false').
+     1>Target "BeforeResolveReferences" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ResolveReferences" depends on it):
+     1>Done building target "BeforeResolveReferences" in project "CadIO.vcxproj".
+       Target "AssignProjectConfiguration" skipped. Previously built successfully.
+       Target "PrepareProjectReferences" skipped. Previously built successfully.
+       Target "_RemoveNameMetadataFromProjectReferenceItems" skipped, due to false condition; ('@(ProjectReference)'!='') was evaluated as (''!='').
+     1>Target "ResolveProjectReferences" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ResolveReferences" depends on it):
+       Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' != '10.0' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and ('true' == 'true' or 'true' != 'true') and '16.0' != '10.0' and '' != '').
+       Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and 'true' != 'true' and 'true' == 'true' and '' != '').
+       Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingProject)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and 'true' == 'true' and '' != '').
+       Task "Warning" skipped, due to false condition; ('@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceNonexistent)' != '') was evaluated as ('' != '' and '' != '').
+     1>Done building target "ResolveProjectReferences" in project "CadIO.vcxproj".
+       Target "FindInvalidProjectReferences" skipped, due to false condition; ('$(FindInvalidProjectReferences)' == 'true') was evaluated as ('' == 'true').
+       Target "ResolveNativeReferences" skipped, due to false condition; ('@(NativeReference)'!='') was evaluated as (''!='').
+       Target "_PrepareForReferenceResolution" skipped. Previously built successfully.
+       Target "ResolveProjectReferences" skipped. Previously built successfully.
+       Target "FindInvalidProjectReferences" skipped, due to false condition; ('$(FindInvalidProjectReferences)' == 'true') was evaluated as ('' == 'true').
+     1>Target "GetFrameworkPaths" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.NETFramework.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+     1>Done building target "GetFrameworkPaths" in project "CadIO.vcxproj".
+       Target "_PrepareForReferenceResolution" skipped. Previously built successfully.
+       Target "GetWinFXPath" skipped, due to false condition; (('@(Page)' != '' or '@(ApplicationDefinition)' != '' or '@(Resource)' != '') and ('$(GetWinFXNativePath)' != '' or '$(GetWinFXWoWPath)' != '' )) was evaluated as (('' != '' or '' != '' or '' != '') and ('' != '' or '' != '' )).
+       Target "GetFrameworkPaths" skipped. Previously built successfully.
+     1>Target "GetReferenceAssemblyPaths" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+       Task "GetReferenceAssemblyPaths" skipped, due to false condition; ('$(TargetFrameworkMoniker)' != '' and ('$(_TargetFrameworkDirectories)' == '' or '$(_FullFrameworkReferenceAssemblyPaths)' == '')) was evaluated as ('' != '' and ('C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0' == '' or 'C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0' == '')).
+     1>Done building target "GetReferenceAssemblyPaths" in project "CadIO.vcxproj".
+     1>Target "SetBuildDefaultEnvironmentVariables" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Current.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "PrepareForBuild" depends on it):
+       Task "SetEnv"
+         PATH=D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64;D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools;D:\VS2019\Common7\tools;D:\VS2019\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;D:\VS2019\MSBuild\Current\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;;D:\VMWare\bin\;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;D:\users\ghuber\Documents\AMD APP\bin\x86_64;D:\users\ghuber\Documents\AMD APP\bin\x86;D:\SDKs\CUDA\bin;D:\SDKs\CUDA\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;D:\GNUSoftware\ImageMagick-7.0.6;C:\Program Files\Haskell\bin;D:\GNUSoftware\HaskellPlatform\8.0.2-a\lib\extralibs\bin;D:\GNUSoftware\HaskellPlatform\8.0.2-a\bin;D:\Languages\Python\python-3.6.0\Scripts\;D:\Languages\Python\python-3.6.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\MATLAB\R2019a\bin;D:\MATLAB\R2017b\bin;D:\MATLAB\R2017a\bin;D:\MATLAB\R2016b\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\Languages\Perl\Perl-5.24.0\c\bin;D:\Languages\Perl\Perl-5.24.0\perl\site\bin;D:\Languages\Perl\Perl-5.24.0\perl\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;D:\GNUSoftware\MikTex\MiKTeX-2.9\miktex\bin\x64\;D:\Tools\CMake\bin;D:\GNUSoftware\HaskellPlatform\8.0.2-a\mingw\bin;D:\GNUSoftware\MikTex\MixTex-2.9\miktex\bin\x64\;D:\GNUSoftware\LyX\Lyx2.2.3\Perl\bin;C:\Program Files (x86)\Wolfram Research\WolframScript\;d:\GNUSoftware\pdftk\bin\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;d:\utilities\git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Languages\NodeJS\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.1.2\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\ghuber\AppData\Roaming\cabal\bin;D:\Languages\coq\bin;D:\GNUSoftware\HaskellPlatform\8.0.2-a\bin;C:\Users\ghuber\AppData\Local\Microsoft\WindowsApps;D:\GNUSoftware\Nmap;C:\Users\ghuber\AppData\Local\Microsoft\WindowsApps;C:\Users\ghuber\AppData\Roaming\npm;C:\Users\ghuber\.dotnet\tools;;
+       Done executing task "SetEnv".
+       Task "SetEnv"
+         LIB=D:\VS2019\VC\Tools\MSVC\14.28.29333\lib\x64;;D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\lib\x64;;D:\VS2019\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64;;;D:\VS2019\VC\Auxiliary\VS\UnitTest\lib;C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64;
+       Done executing task "SetEnv".
+       Task "SetEnv"
+         LIBPATH=D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\lib\x64;;D:\VS2019\VC\Tools\MSVC\14.28.29333\lib\x64;
+       Done executing task "SetEnv".
+       Task "SetEnv"
+         INCLUDE=D:\VS2019\VC\Tools\MSVC\14.28.29333\include;;D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\include;;D:\VS2019\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;;D:\VS2019\VC\Auxiliary\VS\UnitTest\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       Done executing task "SetEnv".
+     1>Done building target "SetBuildDefaultEnvironmentVariables" in project "CadIO.vcxproj".
+       Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true') was evaluated as ('' != '' and '' != 'true').
+       Target "_PrepareForReferenceResolution" skipped. Previously built successfully.
+     1>Target "GetResolvedWinMD" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "PrepareForBuild" depends on it):
+     1>Done building target "GetResolvedWinMD" in project "CadIO.vcxproj".
+     1>Target "_CheckWindowsSDKInstalled" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.WindowsSDK.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "PrepareForBuild" depends on it):
+       Task "VCMessage" skipped, due to false condition; ('$(WindowsSDKInstalled)' != 'true') was evaluated as ('true' != 'true').
+       Task "VCMessage" skipped, due to false condition; ('$(WindowsAppContainer)' != 'true' and '$(WindowsSDK_Desktop_Support)' != true) was evaluated as ('false' != 'true' and 'true' != true).
+     1>Done building target "_CheckWindowsSDKInstalled" in project "CadIO.vcxproj".
+       Target "GetFrameworkPaths" skipped. Previously built successfully.
+       Target "GetReferenceAssemblyPaths" skipped. Previously built successfully.
+       Target "AssignLinkMetadata" skipped, due to false condition; ( '$(SynthesizeLinkMetadata)' == 'true' ) was evaluated as ( '' == 'true' ).
+     1>Target "SetCABuildNativeEnvironmentVariables" in file "D:\VS2019\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "PrepareForBuild" depends on it):
+       Task "SetEnv"
+         CAExcludePath=D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\include;D:\VS2019\VC\Tools\MSVC\14.28.29333\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       Done executing task "SetEnv".
+       Task "SetEnv" skipped, due to false condition; ('$(RunMsvcAnalysis)'=='true' and '$(VCCodeAnalysisUX)'=='true') was evaluated as ('false'=='true' and 'true'=='true').
+     1>Done building target "SetCABuildNativeEnvironmentVariables" in project "CadIO.vcxproj".
+     1>Target "PrepareForBuild" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)' != 'true' and '$(ConfigurationPlatformExists)' != 'true') was evaluated as ('' != 'true' and 'true' != 'true').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)' != 'true' and '$(_ToolsetFound)' != 'true') was evaluated as ('' != 'true' and 'true' != 'true').
+       Task "MakeDir"
+       Done executing task "MakeDir".
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(WindowsAppContainer)'=='true' and '$(ConfigurationType)'!='Application' and '$(ConfigurationType)'!='DynamicLibrary' and '$(ConfigurationType)'!='StaticLibrary') was evaluated as (''!='true' and 'false'=='true' and 'DynamicLibrary'!='Application' and 'DynamicLibrary'!='DynamicLibrary' and 'DynamicLibrary'!='StaticLibrary').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and ('$(TargetFrameworkVersion)'=='v3.5' or '$(TargetFrameworkVersion)'=='v3.0' or '$(TargetFrameworkVersion)'=='v2.0' )) was evaluated as (''!='true' and 'D:\VS2019\VC\Tools\MSVC\14.28.29333\'=='' and '' != 'true' and ('v4.0'=='v3.5' or 'v4.0'=='v3.0' or 'v4.0'=='v2.0' )).
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and '$(PlatformToolset)'=='v90') was evaluated as (''!='true' and 'D:\VS2019\VC\Tools\MSVC\14.28.29333\'=='' and '' != 'true' and 'v142'=='v90').
+       Using "CheckVCToolsetVersion" task from assembly "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Task "CheckVCToolsetVersion"
+       Done executing task "CheckVCToolsetVersion".
+       Task "VCMessage" skipped, due to false condition; ('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' == '') was evaluated as ('' == 'true' and !Exists(D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\lib\x64\mfcs140.lib) and '' == '').
+       Task "VCMessage" skipped, due to false condition; ('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' != '') was evaluated as ('' == 'true' and !Exists(D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\lib\x64\mfcs140.lib) and '' != '').
+       Task "VCMessage" skipped, due to false condition; ('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' == '') was evaluated as ('' == 'true' and !Exists(D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\lib\x64\atls.lib) and '' == '').
+       Task "VCMessage" skipped, due to false condition; ('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' != '') was evaluated as ('' == 'true' and !Exists(D:\VS2019\VC\Tools\MSVC\14.28.29333\atlmfc\lib\x64\atls.lib) and '' != '').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)' != 'true' and
+                                                               '$(CheckMSVCComponents)'=='true' and
+                                                               '$(SpectreMitigation)' != '' and
+                                                               '$(SpectreMitigation)' != 'false' and
+                                                               (('$(_VC_Target_Library_Platform)' == 'OneCore' and !Exists('$(VC_LibraryPath_VC_x86_OneCore_spectre)')) or
+                                                                ('$(_VC_Target_Library_Platform)' == 'Desktop' and !Exists('$(VC_LibraryPath_VC_x86_Desktop_spectre)')))) was evaluated as ('' != 'true' and
+                                                               'true'=='true' and
+                                                               'false' != '' and
+                                                               'false' != 'false' and
+                                                               (('Desktop' == 'OneCore' and !Exists('D:\VS2019\VC\Tools\MSVC\14.28.29333\lib\spectre\onecore\x86')) or
+                                                                ('Desktop' == 'Desktop' and !Exists('D:\VS2019\VC\Tools\MSVC\14.28.29333\lib\spectre\x86')))).
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(EnableASAN)' == 'true' and '$(LlvmPlatformName)' == '') was evaluated as (''!='true' and 'false' == 'true' and 'x86_64' == '').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(EnableASAN)' == 'true' and '%(ClCompile.DebugInformationFormat)' == 'EditAndContinue') was evaluated as (''!='true' and 'false' == 'true' and 'ProgramDatabase' == 'EditAndContinue').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(EnableASAN)' == 'true' and '%(Link.LinkIncremental)' == 'true') was evaluated as (''!='true' and 'false' == 'true' and '' == 'true').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true') was evaluated as (''!='true' and 'D:\VS2019\VC\Tools\MSVC\14.28.29333\'=='' and '' != 'true').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(WindowsSDKDir)'=='' and '$(UseEnv)' != 'true') was evaluated as (''!='true' and 'C:\Program Files (x86)\Windows Kits\10\'=='' and '' != 'true').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(IntDirTrailingSlashWarning)'=='true') was evaluated as (''!='true' and ''=='true').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(OutDirTrailingSlashWarning)'=='true') was evaluated as (''!='true' and ''=='true').
+       Task "VCMessage" skipped, due to false condition; ('%(CompatibilityIssues.Identity)' != '' and '$(DesignTimeBuild)'!='true') was evaluated as ('' != '' and ''!='true').
+       Task "VCMessage" skipped, due to false condition; ('$(IgnoreWarnIntDirSharingDetected)' != 'true' and '$(IntDirSharingDetected)' == 'true') was evaluated as ('' != 'true' and '' == 'true').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(IgnoreWarnIntDirInTempDetected)' != 'true' and ('$(IntDirFullPath.StartsWith($(Tmp), true, null))' == 'true' or '$(IntDirFullPath.StartsWith($(Temp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(Tmp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(Temp), true, null))' == 'true')) was evaluated as (''!='true' and '' != 'true' and ('False' == 'true' or 'False' == 'true' or 'False' == 'true' or 'False' == 'true')).
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "PrepareForBuild" in project "CadIO.vcxproj".
+       Target "_PrepareForReferenceResolution" skipped. Previously built successfully.
+       Target "ComputeCrtSDKReference" skipped, due to false condition; ('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false') was evaluated as ('..\DXFFile\Read\DRBlocks.cpp;..\DXFFile\Read\DREntities.cpp;..\DXFFile\Read\DRTables.cpp;...'!='' and 'false'=='true' and '' != 'false').
+       Target "GetInstalledSDKLocations" skipped, due to false condition; ('@(SDKReference)' != '') was evaluated as ('' != '').
+     1>Target "ResolveSDKReferences" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+       Task "ResolveSDKReference" skipped, due to false condition; ('@(SDKReference)'!='') was evaluated as (''!='').
+     1>Done building target "ResolveSDKReferences" in project "CadIO.vcxproj".
+       Target "ResolveSDKReferences" skipped. Previously built successfully.
+     1>Target "ExpandSDKReferences" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+       Task "GetSDKReferenceFiles" skipped, due to false condition; ('@(ResolvedSDKReference)'!='') was evaluated as (''!='').
+     1>Done building target "ExpandSDKReferences" in project "CadIO.vcxproj".
+       Target "ResolveNuGetPackageAssets" skipped, due to false condition; ('$(ResolveNuGetPackages)' == 'true' and exists('$(ProjectLockFile)')) was evaluated as ('true' == 'true' and exists('obj\project.assets.json')).
+       Target "ImplicitlyExpandNETStandardFacades" skipped, due to false condition; ('$(ImplicitlyExpandNETStandardFacades)' == 'true') was evaluated as ('' == 'true').
+       Target "_HandlePackageFileConflicts" skipped, due to false condition; ('@(Reference)' != '' Or '@(ReferenceCopyLocalPaths)' != '') was evaluated as ('' != '' Or '' != '').
+       Target "ImplicitlyExpandNETStandardFacades" skipped, due to false condition; ('$(ImplicitlyExpandNETStandardFacades)' == 'true') was evaluated as ('' == 'true').
+     1>Target "ResolveAssemblyReferences" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ResolveReferences" depends on it):
+       Task "ResolveAssemblyReference" skipped, due to false condition; ('@(Reference)'!='' or '@(_ResolvedProjectReferencePaths)'!='' or '@(_ExplicitReference)' != '') was evaluated as (''!='' or ''!='' or '' != '').
+     1>Done building target "ResolveAssemblyReferences" in project "CadIO.vcxproj".
+       Target "GenerateBindingRedirects" skipped, due to false condition; ('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true') was evaluated as ('' == 'true' and '' == 'true').
+       Target "_RemoveZipFileSuggestedRedirect" skipped, due to false condition; ('$(_TargetFrameworkVersionWithoutV)' >= '4.7.1' And '$(AllowZipFileRedirect)' != 'true') was evaluated as ('4.0' >= '4.7.1' And '' != 'true').
+       Target "GenerateBindingRedirectsUpdateAppConfig" skipped, due to false condition; ('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true' and Exists('$(_GenerateBindingRedirectsIntermediateAppConfig)')) was evaluated as ('' == 'true' and '' == 'true' and Exists('x64\Debug\CadIO.dll.config')).
+       Target "ResolveComReferences" skipped, due to false condition; ('@(COMReference)'!='' or '@(COMFileReference)'!='') was evaluated as (''!='' or ''!='').
+     1>Target "AfterResolveReferences" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ResolveReferences" depends on it):
+     1>Done building target "AfterResolveReferences" in project "CadIO.vcxproj".
+       Target "ImplicitlyExpandDesignTimeFacades" skipped, due to false condition; ('$(ImplicitlyExpandDesignTimeFacades)' == 'true') was evaluated as ('' == 'true').
+       Target "ResolveTestReferences" skipped, due to false condition; ('@(Shadow)'!='') was evaluated as (''!='').
+     1>Target "ResolveReferences" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Build" depends on it):
+     1>Done building target "ResolveReferences" in project "CadIO.vcxproj".
+       Target "PrepareForBuild" skipped. Previously built successfully.
+       Target "PrepareForBuild" skipped. Previously built successfully.
+     1>Target "InitializeBuildStatus" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Build" depends on it):
+       Task "ReadLinesFromFile"
+       Done executing task "ReadLinesFromFile".
+       Task "WriteLinesToFile"
+       Done executing task "WriteLinesToFile".
+       Using "Touch" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "Touch"
+         Touching "x64\Debug\CadIO.tlog\unsuccessfulbuild".
+       Done executing task "Touch".
+     1>Done building target "InitializeBuildStatus" in project "CadIO.vcxproj".
+       Target "PrepareProjectReferences" skipped. Previously built successfully.
+     1>Target "BuildGenerateSourcesTraverse" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "BuildGenerateSources" depends on it):
+       Task "MSBuild" skipped, due to false condition; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') was evaluated as ('' == 'true' and '' != '' and '' != '' and '' == 'true').
+     1>Done building target "BuildGenerateSourcesTraverse" in project "CadIO.vcxproj".
+       Target "PrepareForBuild" skipped. Previously built successfully.
+       Target "ResolveReferences" skipped. Previously built successfully.
+     1>Target "BeforeBuildGenerateSources" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "BeforeBuildGenerateSources" in project "CadIO.vcxproj".
+     1>Target "PreBuildEvent" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+       Task "Message" skipped, due to false condition; ('%(PreBuildEvent.Message)' != '' and '%(PreBuildEvent.Command)' != '') was evaluated as ('' != '' and '' != '').
+       Task "Exec" skipped, due to false condition; ('%(PreBuildEvent.Command)' != '') was evaluated as ('' != '').
+     1>Done building target "PreBuildEvent" in project "CadIO.vcxproj".
+       Target "PrepareForBuild" skipped. Previously built successfully.
+       Target "InitializeBuildStatus" skipped. Previously built successfully.
+       Target "SetBuildDefaultEnvironmentVariables" skipped. Previously built successfully.
+       Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true') was evaluated as ('' != '' and '' != 'true').
+     1>Target "_SelectedFiles" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "SelectCustomBuild" depends on it):
+     1>Done building target "_SelectedFiles" in project "CadIO.vcxproj".
+     1>Target "SelectCustomBuild" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "CustomBuild" depends on it):
+     1>Done building target "SelectCustomBuild" in project "CadIO.vcxproj".
+     1>Target "ComputeCustomBuildOutput" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "CustomBuild" depends on it):
+       Task "CreateItem" skipped, due to false condition; ('%(CustomBuildOutputs.OutputItemType)'!='') was evaluated as (''!='').
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "ComputeCustomBuildOutput" in project "CadIO.vcxproj".
+     1>Target "CustomBuild" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+       Using "GetOutOfDateItems" task from assembly "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Task "GetOutOfDateItems"
+       Done executing task "GetOutOfDateItems".
+       Task "GetOutOfDateItems"
+       Done executing task "GetOutOfDateItems".
+       Task "ParallelCustomBuild" skipped, due to false condition; ('@(_ParallelCustomBuild)' != '') was evaluated as ('' != '').
+       Task "CustomBuild" skipped, due to false condition; ('@(_CustomBuild)' != '') was evaluated as ('' != '').
+     1>Done building target "CustomBuild" in project "CadIO.vcxproj".
+       Target "FxExport" skipped, due to false condition; ('@(FxCompile)' != '') was evaluated as ('' != '').
+       Target "FxCompile" skipped, due to false condition; ('@(FxCompile)' != '') was evaluated as ('' != '').
+       Target "_CreateCopyFileItems" skipped, due to false condition; ('@(CopyFileToFolders)' != '') was evaluated as ('' != '').
+       Target "_SelectedFiles" skipped. Previously built successfully.
+     1>Target "CopyFileToFolders" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+       Task "GetOutOfDateItems"
+       Done executing task "GetOutOfDateItems".
+       Task "Copy" skipped, due to false condition; ('@(_OutOfDateCopyFile)' != '') was evaluated as ('' != '').
+     1>Done building target "CopyFileToFolders" in project "CadIO.vcxproj".
+       Target "Xsd" skipped, due to false condition; ('@(Xsd)' != '') was evaluated as ('' != '').
+     1>Target "_Xsd" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "_Xsd" in project "CadIO.vcxproj".
+     1>Target "MakeDirsForMidl" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_Midl" depends on it):
+       Task "Makedir"
+       Done executing task "Makedir".
+     1>Done building target "MakeDirsForMidl" in project "CadIO.vcxproj".
+       Target "Midl" skipped, due to false condition; ('@(Midl)' != '') was evaluated as ('' != '').
+       Target "FxExport" skipped, due to false condition; ('@(FxCompile)' != '') was evaluated as ('' != '').
+       Target "FxCompile" skipped, due to false condition; ('@(FxCompile)' != '') was evaluated as ('' != '').
+     1>Target "ComputeMIDLGeneratedCompileInputs" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_Midl" depends on it):
+     1>Done building target "ComputeMIDLGeneratedCompileInputs" in project "CadIO.vcxproj".
+     1>Target "AfterMidl" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_Midl" depends on it):
+     1>Done building target "AfterMidl" in project "CadIO.vcxproj".
+     1>Target "_Midl" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "_Midl" in project "CadIO.vcxproj".
+     1>Target "AfterBuildGenerateSources" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "AfterBuildGenerateSources" in project "CadIO.vcxproj".
+     1>Target "AfterBuildGenerateSourcesEvent" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "AfterBuildGenerateSourcesEvent" in project "CadIO.vcxproj".
+     1>Target "_BuildGenerateSourcesAction" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "BuildGenerateSources" depends on it):
+     1>Done building target "_BuildGenerateSourcesAction" in project "CadIO.vcxproj".
+     1>Target "BuildGenerateSources" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Build" depends on it):
+     1>Done building target "BuildGenerateSources" in project "CadIO.vcxproj".
+       Target "PrepareProjectReferences" skipped. Previously built successfully.
+     1>Target "BuildCompileTraverse" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "BuildCompile" depends on it):
+       Task "MSBuild" skipped, due to false condition; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') was evaluated as ('' == 'true' and '' != '' and '' != ''  and '' == 'true').
+     1>Done building target "BuildCompileTraverse" in project "CadIO.vcxproj".
+       Target "PrepareForBuild" skipped. Previously built successfully.
+       Target "ResolveReferences" skipped. Previously built successfully.
+     1>Target "BeforeClCompile" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_ClCompile" depends on it):
+     1>Done building target "BeforeClCompile" in project "CadIO.vcxproj".
+       Target "GenerateTargetFrameworkMonikerAttribute" skipped, due to false condition; ('$(GenerateTargetFrameworkAttribute)' == 'true') was evaluated as ('false' == 'true').
+       Target "ComputeMIDLGeneratedCompileInputs" skipped. Previously built successfully.
+     1>Target "ComputeCLInputPDBName" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_ClCompile" depends on it):
+     1>Done building target "ComputeCLInputPDBName" in project "CadIO.vcxproj".
+       Target "ResolveReferences" skipped. Previously built successfully.
+     1>Target "FindReferenceAssembliesForReferences" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ComputeReferenceCLInput" depends on it):
+     1>Done building target "FindReferenceAssembliesForReferences" in project "CadIO.vcxproj".
+       Target "PrepareForBuild" skipped. Previously built successfully.
+       Target "ResolveReferences" skipped. Previously built successfully.
+     1>Target "GetReferencedVCProjectsInfo" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ComputeReferenceCLInput" depends on it):
+       Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.Extension)' == '.vcxproj' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == '.vcxproj' and '' != '' and '' != '').
+     1>Done building target "GetReferencedVCProjectsInfo" in project "CadIO.vcxproj".
+     1>Target "ComputeReferenceCLInput" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_ClCompile" depends on it):
+       Task "WriteLinesToFile" skipped, due to false condition; ('@(_ReferenceOutputsToCopyLocally)'!='' and '$(DesignTimeBuild)' != 'true') was evaluated as (''!='' and '' != 'true').
+       Task "WriteLinesToFile" skipped, due to false condition; ('@(_ReferenceOutputsToCopyLocally)'!='' and '$(DesignTimeBuild)' != 'true') was evaluated as (''!='' and '' != 'true').
+       Task "Message" skipped, due to false condition; ('$(_REFERENCE_DEBUG)'=='true') was evaluated as (''=='true').
+     1>Done building target "ComputeReferenceCLInput" in project "CadIO.vcxproj".
+     1>Target "WarnCompileDuplicatedFilename" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_ClCompile" depends on it):
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'DRBlocks.cpp' != 'DRBlocks.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'DREntities.cpp' != 'DREntities.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'DRTables.cpp' != 'DRTables.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'DWBlocks.cpp' != 'DWBlocks.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'DWEntities.cpp' != 'DWEntities.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'DWTables.cpp' != 'DWTables.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'DXFBase.cpp' != 'DXFBase.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'DXFRead.cpp' != 'DXFRead.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'DXFWrite.cpp' != 'DXFWrite.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'DimView.cpp' != 'DimView.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'DrwIO.cpp' != 'DrwIO.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'MemDrw.cpp' != 'MemDrw.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'TextView.cpp' != 'TextView.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'View.cpp' != 'View.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'CadIO.cpp' != 'CadIO.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'StdAfx.cpp' != 'StdAfx.cpp' and '.\../Bin/Debug/CadIO\' == '.\../Bin/Debug/CadIO\').
+     1>Done building target "WarnCompileDuplicatedFilename" in project "CadIO.vcxproj".
+     1>Target "FixupCLCompileOptions" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_ClCompile" depends on it):
+     1>Done building target "FixupCLCompileOptions" in project "CadIO.vcxproj".
+     1>Target "MakeDirsForCl" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_ClCompile" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "MakeDirsForCl" in project "CadIO.vcxproj".
+       Target "_SelectedFiles" skipped. Previously built successfully.
+       Target "GenerateTargetFrameworkMonikerAttribute" skipped, due to false condition; ('$(GenerateTargetFrameworkAttribute)' == 'true') was evaluated as ('false' == 'true').
+       Target "ComputeMIDLGeneratedCompileInputs" skipped. Previously built successfully.
+       Target "ComputeCLInputPDBName" skipped. Previously built successfully.
+       Target "ComputeReferenceCLInput" skipped. Previously built successfully.
+       Target "WarnCompileDuplicatedFilename" skipped. Previously built successfully.
+       Target "FixupCLCompileOptions" skipped. Previously built successfully.
+       Target "SelectCustomBuild" skipped. Previously built successfully.
+       Target "SetModuleDependencies" skipped, due to false condition; ('$(DesignTimeBuild)' != 'true' and '$(EnableCppModules)' == 'true') was evaluated as ('' != 'true' and '' == 'true').
+     1>Target "SelectClCompile" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ClCompile" depends on it):
+     1>Done building target "SelectClCompile" in project "CadIO.vcxproj".
+       Target "SelectAnalysisManifest" skipped, due to false condition; ('$(RunMsvcAnalysis)'=='true' and '$(SelectedFiles)'!='') was evaluated as ('false'=='true' and ''!='').
+       Target "ManagedIncrementalBuildPreProcessDependencyGraph" skipped, due to false condition; ('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True') was evaluated as ('..\DXFFile\Read\DRBlocks.cpp;..\DXFFile\Read\DREntities.cpp;..\DXFFile\Read\DRTables.cpp;...' != '' and 'false' == 'True').
+     1>Target "ClCompile" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_ClCompile" depends on it):
+       Task "Delete"
+         File ".\../Bin/Debug/CadIO\CadIO.pch" doesn't exist. Skipping.
+       Done executing task "Delete".
+       Task "MultiToolTask" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(ClCompile.CompilerIteration)' == 'Modules') was evaluated as ('' != 'true' and '' == 'Modules').
+       Task "MultiToolTask" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' == 'true') was evaluated as ('' != 'true' and '' == '' and 'false' == 'true').
+       Task "CL" skipped, due to false condition; ('%(ClCompile.PrecompiledHeader)' == 'Create' and '%(ClCompile.ExcludedFromBuild)'!='true' and '%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' != 'true') was evaluated as ('Use' == 'Create' and ''!='true' and '' == '' and 'false' != 'true').
+       Using "CL" task from assembly "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Task "CL"
+         Forcing recompile of all source files due to missing PDB ".\../Bin/Debug/CadIO\vc142.pdb".
+         Environment Variables passed to tool:
+           VS_UNICODE_OUTPUT=1228
+         D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CADIO_EXPORTS /D _VC80_UPGRADE=0x0600 /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp".\../Bin/Debug/CadIO\CadIO.pch" /Fo".\../Bin/Debug/CadIO\\" /Fd".\../Bin/Debug/CadIO\vc142.pdb" /FR"x64\Debug\\" /Gd /TP /FC /errorReport:prompt StdAfx.cpp
+         Tracking command:
+         D:\VS2019\MSBuild\Current\Bin\Tracker.exe /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\x64\Debug\CadIO.tlog /r D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\STDAFX.CPP /b MSBuildConsole_CancelEvent3f34a019336b40a18badc9ba811e12e6  /c D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64\CL.exe  /c /Zi /nologo /W3 /WX- /diagnostics:column /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CADIO_EXPORTS /D _VC80_UPGRADE=0x0600 /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp".\../Bin/Debug/CadIO\CadIO.pch" /Fo".\../Bin/Debug/CadIO\\" /Fd".\../Bin/Debug/CadIO\vc142.pdb" /FR"x64\Debug\\" /Gd /TP /FC /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+       Done executing task "CL".
+       Task "CL"
+         Read Tracking Logs:
+         	x64\Debug\CadIO.tlog\CL.read.1.tlog
+         Outputs for D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\CADIO.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DRAWING\DRWIO.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DRAWING\MEMDRW.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DRAWING\VIEW\DIMVIEW.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DRAWING\VIEW\TEXTVIEW.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DRAWING\VIEW\VIEW.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\BASE\DXFBASE.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\READ\DRBLOCKS.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\READ\DRENTITIES.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\READ\DRTABLES.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\READ\DXFREAD.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\WRITE\DWBLOCKS.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\WRITE\DWENTITIES.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\WRITE\DWTABLES.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\WRITE\DXFWRITE.CPP:
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DRBLOCKS.OBJ
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\DRBLOCKS.SBR
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DRENTITIES.OBJ
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\DRENTITIES.SBR
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DRTABLES.OBJ
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\DRTABLES.SBR
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DWBLOCKS.OBJ
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\DWBLOCKS.SBR
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DWENTITIES.OBJ
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\DWENTITIES.SBR
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DWTABLES.OBJ
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\DWTABLES.SBR
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DXFBASE.OBJ
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\DXFBASE.SBR
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DXFREAD.OBJ
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\DXFREAD.SBR
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DXFWRITE.OBJ
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\DXFWRITE.SBR
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DIMVIEW.OBJ
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\DIMVIEW.SBR
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DRWIO.OBJ
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\DRWIO.SBR
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\MEMDRW.OBJ
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\MEMDRW.SBR
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\TEXTVIEW.OBJ
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\TEXTVIEW.SBR
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\VIEW.OBJ
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\VIEW.SBR
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\CADIO.OBJ
+         	D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\CADIO.SBR
+         ..\DXFFile\Base\DXFBase.cpp will be compiled because it was not found in the tracking log.
+         ..\DXFFile\Read\DRBlocks.cpp will be compiled because it was not found in the tracking log.
+         ..\DXFFile\Read\DREntities.cpp will be compiled because it was not found in the tracking log.
+         ..\DXFFile\Read\DRTables.cpp will be compiled because it was not found in the tracking log.
+         ..\DXFFile\Read\DXFRead.cpp will be compiled because it was not found in the tracking log.
+         ..\DXFFile\Write\DWBlocks.cpp will be compiled because it was not found in the tracking log.
+         ..\DXFFile\Write\DWEntities.cpp will be compiled because it was not found in the tracking log.
+         ..\DXFFile\Write\DWTables.cpp will be compiled because it was not found in the tracking log.
+         ..\DXFFile\Write\DXFWrite.cpp will be compiled because it was not found in the tracking log.
+         ..\Drawing\DrwIO.cpp will be compiled because it was not found in the tracking log.
+         ..\Drawing\MemDrw.cpp will be compiled because it was not found in the tracking log.
+         ..\Drawing\View\DimView.cpp will be compiled because it was not found in the tracking log.
+         ..\Drawing\View\TextView.cpp will be compiled because it was not found in the tracking log.
+         ..\Drawing\View\View.cpp will be compiled because it was not found in the tracking log.
+         CadIO.cpp will be compiled because it was not found in the tracking log.
+         No output for D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\CADIO.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DRAWING\DRWIO.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DRAWING\MEMDRW.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DRAWING\VIEW\DIMVIEW.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DRAWING\VIEW\TEXTVIEW.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DRAWING\VIEW\VIEW.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\BASE\DXFBASE.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\READ\DRBLOCKS.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\READ\DRENTITIES.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\READ\DRTABLES.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\READ\DXFREAD.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\WRITE\DWBLOCKS.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\WRITE\DWENTITIES.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\WRITE\DWTABLES.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\WRITE\DXFWRITE.CPP was found in the tracking log; source compilation required.
+         Write Tracking Logs:
+         	x64\Debug\CadIO.tlog\CL.write.1.tlog
+         Environment Variables passed to tool:
+           VS_UNICODE_OUTPUT=1728
+         D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CADIO_EXPORTS /D _VC80_UPGRADE=0x0600 /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp".\../Bin/Debug/CadIO\CadIO.pch" /Fo".\../Bin/Debug/CadIO\\" /Fd".\../Bin/Debug/CadIO\vc142.pdb" /FR"x64\Debug\\" /Gd /TP /FC /errorReport:prompt ..\DXFFile\Read\DRBlocks.cpp ..\DXFFile\Read\DREntities.cpp ..\DXFFile\Read\DRTables.cpp ..\DXFFile\Write\DWBlocks.cpp ..\DXFFile\Write\DWEntities.cpp ..\DXFFile\Write\DWTables.cpp ..\DXFFile\Base\DXFBase.cpp ..\DXFFile\Read\DXFRead.cpp ..\DXFFile\Write\DXFWrite.cpp ..\Drawing\View\DimView.cpp ..\Drawing\DrwIO.cpp ..\Drawing\MemDrw.cpp ..\Drawing\View\TextView.cpp ..\Drawing\View\View.cpp CadIO.cpp
+         Tracking command:
+         D:\VS2019\MSBuild\Current\Bin\Tracker.exe /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\x64\Debug\CadIO.tlog /r "D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\CADIO.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DRAWING\DRWIO.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DRAWING\MEMDRW.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DRAWING\VIEW\DIMVIEW.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DRAWING\VIEW\TEXTVIEW.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DRAWING\VIEW\VIEW.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\BASE\DXFBASE.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\READ\DRBLOCKS.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\READ\DRENTITIES.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\READ\DRTABLES.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\READ\DXFREAD.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\WRITE\DWBLOCKS.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\WRITE\DWENTITIES.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\WRITE\DWTABLES.CPP|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\DXFFILE\WRITE\DXFWRITE.CPP" /b MSBuildConsole_CancelEvent5ae6224744ad4edcbafe223e2266302d  /c D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64\CL.exe  /c /Zi /nologo /W3 /WX- /diagnostics:column /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CADIO_EXPORTS /D _VC80_UPGRADE=0x0600 /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp".\../Bin/Debug/CadIO\CadIO.pch" /Fo".\../Bin/Debug/CadIO\\" /Fd".\../Bin/Debug/CadIO\vc142.pdb" /FR"x64\Debug\\" /Gd /TP /FC /errorReport:prompt ..\DXFFile\Read\DRBlocks.cpp ..\DXFFile\Read\DREntities.cpp ..\DXFFile\Read\DRTables.cpp ..\DXFFile\Write\DWBlocks.cpp ..\DXFFile\Write\DWEntities.cpp ..\DXFFile\Write\DWTables.cpp ..\DXFFile\Base\DXFBase.cpp ..\DXFFile\Read\DXFRead.cpp ..\DXFFile\Write\DXFWrite.cpp ..\Drawing\View\DimView.cpp ..\Drawing\DrwIO.cpp ..\Drawing\MemDrw.cpp ..\Drawing\View\TextView.cpp ..\Drawing\View\View.cpp CadIO.cpp
+         DRBlocks.cpp
+         DREntities.cpp
+         DRTables.cpp
+         DWBlocks.cpp
+         DWEntities.cpp
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWEntities.cpp(553,45): warning C4311: 'type cast': pointer truncation from 'PDXF' to 'DWORD'
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWEntities.cpp(553,45): warning C4302: 'type cast': truncation from 'PDXF' to 'DWORD'
+         DWTables.cpp
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWTables.cpp(492,26): warning C4244: '=': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWTables.cpp(499,27): warning C4244: '=': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWTables.cpp(508,2): warning C4311: 'type cast': pointer truncation from 'PDXF' to 'DWORD'
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWTables.cpp(508,2): warning C4302: 'type cast': truncation from 'PDXF' to 'DWORD'
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWTables.cpp(508,2): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWTables.cpp(553,45): warning C4311: 'type cast': pointer truncation from 'PDXF' to 'DWORD'
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWTables.cpp(553,45): warning C4302: 'type cast': truncation from 'PDXF' to 'DWORD'
+         DXFBase.cpp
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Base\DXFBase.cpp(230,94): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Base\DXFBase.cpp(238,93): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Base\DXFBase.cpp(248,94): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Base\DXFBase.cpp(451,93): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+         DXFRead.cpp
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Read\DXFRead.cpp(69,92): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+         DXFWrite.cpp
+         DimView.cpp
+         DrwIO.cpp
+         MemDrw.cpp
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(121,43): warning C4244: '=': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(833,63): warning C4244: '=': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(953,36): warning C4244: '=': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(973,2): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(973,2): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(973,2): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(974,2): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(974,2): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1235,2): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1235,2): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1235,2): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1238,2): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1238,2): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1265,2): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1265,2): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1265,2): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1268,2): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1268,2): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+         TextView.cpp
+     1>D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\View\TextView.cpp(80,18): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+         View.cpp
+         CadIO.cpp
+         Generating Code...
+       Done executing task "CL".
+       Task "CL" skipped, due to false condition; ('%(ClCompile.PrecompiledHeader)' != 'Create' and '%(ClCompile.CompileAs)'!='CppModule' and '%(ClCompile.ExcludedFromBuild)'!='true' and '%(ClCompile.CompilerIteration)' == '' and @(ClCompile) != '' and '$(MultiProcCL)' != 'true') was evaluated as ('Create' != 'Create' and 'CompileAsCpp'!='CppModule' and ''!='true' and '' == '' and StdAfx.cpp != '' and 'false' != 'true').
+     1>Done building target "ClCompile" in project "CadIO.vcxproj".
+       Target "RunSelectedFileNativeCodeAnalysis" skipped, due to false condition; ('$(RunMsvcAnalysis)'=='true' and '$(SelectedFiles)'!='') was evaluated as ('false'=='true' and ''!='').
+       Target "ManagedIncrementalBuildPostProcessDependencyGraph" skipped, due to false condition; ('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True') was evaluated as ('..\DXFFile\Read\DRBlocks.cpp;..\DXFFile\Read\DREntities.cpp;..\DXFFile\Read\DRTables.cpp;...' != '' and 'false' == 'True').
+       Target "NoAnalysisToolEnabledWarning" skipped, due to false condition; ('$(RunCppAnalysis)'=='true' AND '$(EnableMicrosoftCodeAnalysis)'=='false' AND '$(EnableClangTidyCodeAnalysis)'=='false') was evaluated as ('false'=='true' AND 'true'=='false' AND 'false'=='false').
+       Target "RunSelectedFileClangTidy" skipped, due to false condition; ('$(RunClangCppAnalysis)'=='true' AND '$(SelectedFiles)'!='') was evaluated as ('false'=='true' AND ''!='').
+       Target "MicrosoftAnalysisIncompatiableWithClangCl" skipped, due to false condition; ('$(RunCppAnalysis)'=='true' AND '$(EnableMicrosoftCodeAnalysis)'=='true' AND '$(UseClangCl)'=='true') was evaluated as ('false'=='true' AND 'true'=='true' AND ''=='true').
+     1>Target "AfterClCompile" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_ClCompile" depends on it):
+     1>Done building target "AfterClCompile" in project "CadIO.vcxproj".
+     1>Target "_ClCompile" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_BuildCompileAction" depends on it):
+     1>Done building target "_ClCompile" in project "CadIO.vcxproj".
+       Target "_ResGen" skipped, due to false condition; ('@(EmbeddedResource)'!='') was evaluated as (''!='').
+     1>Target "BeforeResourceCompile" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_ResourceCompile" depends on it):
+     1>Done building target "BeforeResourceCompile" in project "CadIO.vcxproj".
+     1>Target "MakeDirsForResourceCompile" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_ResourceCompile" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "MakeDirsForResourceCompile" in project "CadIO.vcxproj".
+       Target "_SelectedFiles" skipped. Previously built successfully.
+       Target "SelectCustomBuild" skipped. Previously built successfully.
+     1>Target "SelectResourceCompile" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ResourceCompile" depends on it):
+     1>Done building target "SelectResourceCompile" in project "CadIO.vcxproj".
+     1>Target "ResourceCompile" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_ResourceCompile" depends on it):
+       Using "RC" task from assembly "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Task "RC"
+         All source files are not up-to-date: missing command TLog "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\x64\Debug\CadIO.tlog\rc.command.1.tlog".
+         C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /l"0x0409" /nologo /fo"x64\Debug\CadIO.res" CadIO.rc 
+         Tracking command:
+         D:\VS2019\MSBuild\Current\Bin\Tracker.exe /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\x64\Debug\CadIO.tlog /r D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\CADIO.RC /b MSBuildConsole_CancelEvente70e7031ef204e678738bddf48a9aaa2  /c "C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\rc.exe"  /D _DEBUG /D _VC80_UPGRADE=0x0600 /l"0x0409" /nologo /fo"x64\Debug\CadIO.res" CadIO.rc 
+       Done executing task "RC".
+     1>Done building target "ResourceCompile" in project "CadIO.vcxproj".
+     1>Target "AfterResourceCompile" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_ResourceCompile" depends on it):
+     1>Done building target "AfterResourceCompile" in project "CadIO.vcxproj".
+     1>Target "_ResourceCompile" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_BuildCompileAction" depends on it):
+     1>Done building target "_ResourceCompile" in project "CadIO.vcxproj".
+       Target "_ImpLib" skipped, due to false condition; ('$(ImpLibCompiled)' == 'true') was evaluated as ('' == 'true').
+       Target "_Lib" skipped, due to false condition; ('$(LibCompiled)' == 'true') was evaluated as ('' == 'true').
+     1>Target "AfterBuildCompileEvent" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_BuildCompileAction" depends on it):
+     1>Done building target "AfterBuildCompileEvent" in project "CadIO.vcxproj".
+     1>Target "_BuildCompileAction" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "BuildCompile" depends on it):
+     1>Done building target "_BuildCompileAction" in project "CadIO.vcxproj".
+     1>Target "BuildCompile" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Build" depends on it):
+     1>Done building target "BuildCompile" in project "CadIO.vcxproj".
+       Target "PrepareProjectReferences" skipped. Previously built successfully.
+     1>Target "BuildLinkTraverse" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "BuildLink" depends on it):
+       Task "MSBuild" skipped, due to false condition; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') was evaluated as ('' == 'true' and '' != '' and '' != ''  and '' == 'true').
+     1>Done building target "BuildLinkTraverse" in project "CadIO.vcxproj".
+       Target "PrepareForBuild" skipped. Previously built successfully.
+       Target "ResolveReferences" skipped. Previously built successfully.
+     1>Target "ComputeLegacyManifestEmbedding" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_BuildLinkAction" depends on it):
+       Task "VCMessage" skipped, due to false condition; ('$(RevertManifestEmbedding)' == 'true' and '$(_LegacyManifestEmbeddingDebug)' == 'true') was evaluated as ('' == 'true' and '' == 'true').
+     1>Done building target "ComputeLegacyManifestEmbedding" in project "CadIO.vcxproj".
+     1>Target "BeforeLink" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_Link" depends on it):
+     1>Done building target "BeforeLink" in project "CadIO.vcxproj".
+     1>Target "ComputeRCOutputs" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ComputeRCGeneratedLinkInputs" depends on it):
+     1>Done building target "ComputeRCOutputs" in project "CadIO.vcxproj".
+     1>Target "ComputeRCGeneratedLinkInputs" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeRCGeneratedLinkInputs" in project "CadIO.vcxproj".
+     1>Target "ComputeManifestGeneratedLinkerInputs" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeManifestGeneratedLinkerInputs" in project "CadIO.vcxproj".
+       Target "ComputeCustomBuildOutput" skipped. Previously built successfully.
+       Target "GenerateTargetFrameworkMonikerAttribute" skipped, due to false condition; ('$(GenerateTargetFrameworkAttribute)' == 'true') was evaluated as ('false' == 'true').
+       Target "ComputeMIDLGeneratedCompileInputs" skipped. Previously built successfully.
+       Target "ComputeCLInputPDBName" skipped. Previously built successfully.
+       Target "ComputeReferenceCLInput" skipped. Previously built successfully.
+       Target "WarnCompileDuplicatedFilename" skipped. Previously built successfully.
+       Target "FixupCLCompileOptions" skipped. Previously built successfully.
+     1>Target "ComputeCLOutputs" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "ComputeCLGeneratedLinkInputs" depends on it):
+     1>Done building target "ComputeCLOutputs" in project "CadIO.vcxproj".
+     1>Target "ComputeCLGeneratedLinkInputs" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeCLGeneratedLinkInputs" in project "CadIO.vcxproj".
+     1>Target "ComputeLinkInputsFromProject" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeLinkInputsFromProject" in project "CadIO.vcxproj".
+       Target "ComputeReferenceLinkInputs" skipped, due to false condition; (@(ProjectReference) != '') was evaluated as ( != '').
+     1>Target "ComputeManifestInputsTargets" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeManifestInputsTargets" in project "CadIO.vcxproj".
+       Target "ManifestResourceCompile" skipped, due to false condition; ('$(EmbedManifestBy)' == 'LINK' and '@(Manifest)' != '') was evaluated as ('LINK' == 'LINK' and '' != '').
+       Target "AssignWinFXEmbeddedResource" skipped, due to false condition; ('@(WinFXEmbeddedResource)' != '') was evaluated as ('' != '').
+     1>Target "AssignTargetPaths" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "PrepareResourceNames" depends on it):
+       Using "AssignTargetPath" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "AssignTargetPath"
+       Done executing task "AssignTargetPath".
+       Task "AssignTargetPath"
+       Done executing task "AssignTargetPath".
+       Task "AssignTargetPath"
+       Done executing task "AssignTargetPath".
+       Task "AssignTargetPath"
+       Done executing task "AssignTargetPath".
+       Task "AssignTargetPath" skipped, due to false condition; ('@(_DeploymentBaseManifestWithTargetPath)'=='' and '%(None.Extension)'=='.manifest') was evaluated as (''=='' and ''=='.manifest').
+     1>Done building target "AssignTargetPaths" in project "CadIO.vcxproj".
+       Target "AssignTargetPaths" skipped. Previously built successfully.
+     1>Target "SplitResourcesByCulture" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "PrepareResourceNames" depends on it):
+       Task "Warning" skipped, due to false condition; ('@(ResxWithNoCulture)'!='') was evaluated as (''!='').
+       Task "Warning" skipped, due to false condition; ('@(ResxWithCulture)'!='') was evaluated as (''!='').
+       Task "Warning" skipped, due to false condition; ('@(NonResxWithCulture)'!='') was evaluated as (''!='').
+       Task "Warning" skipped, due to false condition; ('@(NonResxWithNoCulture)'!='') was evaluated as (''!='').
+       Using "AssignCulture" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "AssignCulture"
+       Done executing task "AssignCulture".
+     1>Done building target "SplitResourcesByCulture" in project "CadIO.vcxproj".
+       Target "CreateManifestResourceNames" skipped, due to false condition; ('@(EmbeddedResource)' != '') was evaluated as ('' != '').
+     1>Target "CreateCustomManifestResourceNames" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "PrepareResourceNames" depends on it):
+     1>Done building target "CreateCustomManifestResourceNames" in project "CadIO.vcxproj".
+     1>Target "PrepareResourceNames" in file "D:\VS2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_Link" depends on it):
+     1>Done building target "PrepareResourceNames" in project "CadIO.vcxproj".
+     1>Target "MakeDirsForLink" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_Link" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "MakeDirsForLink" in project "CadIO.vcxproj".
+     1>Target "DoLinkOutputFilesMatch" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_Link" depends on it):
+       Task "VCMessage" skipped, due to false condition; ('@(_OutputFileFromLink)' == '') was evaluated as ('D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\..\Bin\x64\Debug\CadIO.lib' == '').
+       Using "VCMessage" task from assembly "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Task "VCMessage"
+     1>D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1341,5): warning MSB8012: TargetPath(D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\CadIO.dll) does not match the Linker's OutputFile property value (D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Bin\x64\Debug\CadIO.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Done executing task "VCMessage".
+       Task "VCMessage"
+     1>D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1342,5): warning MSB8012: TargetExt(.dll) does not match the Linker's OutputFile property value (.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Done executing task "VCMessage".
+       Task "VCMessage" skipped, due to false condition; ('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.Filename)' != '' and '%(_OutputFileFromLink.Filename)' != '$(TargetName)') was evaluated as ('D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\..\Bin\x64\Debug\CadIO.lib' != '' and 'CadIO' != '' and 'CadIO' != 'CadIO').
+       Task "VCMessage" skipped, due to false condition; ('%(Link.MinimumRequiredVersion)' != '' and ('%(Link.Subsystem)' == '' or '%(Link.Subsystem)' == 'NotSet')) was evaluated as ('' != '' and ('Console' == '' or 'Console' == 'NotSet')).
+     1>Done building target "DoLinkOutputFilesMatch" in project "CadIO.vcxproj".
+     1>Target "PreLinkEvent" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_Link" depends on it):
+       Task "Message" skipped, due to false condition; ('%(PreLinkEvent.Message)' != '' and '%(PreLinkEvent.Command)' != '') was evaluated as ('' != '' and '' != '').
+       Task "Exec" skipped, due to false condition; ('%(PreLinkEvent.Command)' != '') was evaluated as ('' != '').
+     1>Done building target "PreLinkEvent" in project "CadIO.vcxproj".
+     1>Target "ComputeLinkSwitches" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "Link" depends on it):
+     1>Done building target "ComputeLinkSwitches" in project "CadIO.vcxproj".
+     1>Target "Link" in file "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" from project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (target "_Link" depends on it):
+       Using "Link" task from assembly "D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Task "Link"
+         Environment Variables passed to tool:
+           VS_UNICODE_OUTPUT=1028
+         D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\..\Bin\x64\Debug\CadIO.lib" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:".\CadIO.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\..\Bin\x64\Debug\CadIO.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\..\Bin\x64\Debug\CadIO.lib" /MACHINE:X64 /DLL x64\Debug\CadIO.res
+         .\../Bin/Debug/CadIO\DRBlocks.obj
+         .\../Bin/Debug/CadIO\DREntities.obj
+         .\../Bin/Debug/CadIO\DRTables.obj
+         .\../Bin/Debug/CadIO\DWBlocks.obj
+         .\../Bin/Debug/CadIO\DWEntities.obj
+         .\../Bin/Debug/CadIO\DWTables.obj
+         .\../Bin/Debug/CadIO\DXFBase.obj
+         .\../Bin/Debug/CadIO\DXFRead.obj
+         .\../Bin/Debug/CadIO\DXFWrite.obj
+         .\../Bin/Debug/CadIO\DimView.obj
+         .\../Bin/Debug/CadIO\DrwIO.obj
+         .\../Bin/Debug/CadIO\MemDrw.obj
+         .\../Bin/Debug/CadIO\TextView.obj
+         .\../Bin/Debug/CadIO\View.obj
+         .\../Bin/Debug/CadIO\CadIO.obj
+         .\../Bin/Debug/CadIO\StdAfx.obj
+         Tracking command:
+         D:\VS2019\MSBuild\Current\Bin\Tracker.exe /a /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\x64\Debug\CadIO.tlog /r "D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\CADIO.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DIMVIEW.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DRBLOCKS.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DRENTITIES.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DRTABLES.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DRWIO.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DWBLOCKS.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DWENTITIES.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DWTABLES.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DXFBASE.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DXFREAD.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\DXFWRITE.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\MEMDRW.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\STDAFX.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\TEXTVIEW.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\BIN\DEBUG\CADIO\VIEW.OBJ|D:\GNUHOME\PROJECTS\GAMINGAIDS\NIGHTSKY\CADLIB\CADIO\X64\DEBUG\CADIO.RES" /b MSBuildConsole_CancelEventb9d925646dca40bc88dbd58fcd3a61c2  /c D:\VS2019\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64\link.exe  /ERRORREPORT:PROMPT /OUT:"D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\..\Bin\x64\Debug\CadIO.lib" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:".\CadIO.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\..\Bin\x64\Debug\CadIO.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\..\Bin\x64\Debug\CadIO.lib" /MACHINE:X64 /DLL x64\Debug\CadIO.res
+         .\../Bin/Debug/CadIO\DRBlocks.obj
+         .\../Bin/Debug/CadIO\DREntities.obj
+         .\../Bin/Debug/CadIO\DRTables.obj
+         .\../Bin/Debug/CadIO\DWBlocks.obj
+         .\../Bin/Debug/CadIO\DWEntities.obj
+         .\../Bin/Debug/CadIO\DWTables.obj
+         .\../Bin/Debug/CadIO\DXFBase.obj
+         .\../Bin/Debug/CadIO\DXFRead.obj
+         .\../Bin/Debug/CadIO\DXFWrite.obj
+         .\../Bin/Debug/CadIO\DimView.obj
+         .\../Bin/Debug/CadIO\DrwIO.obj
+         .\../Bin/Debug/CadIO\MemDrw.obj
+         .\../Bin/Debug/CadIO\TextView.obj
+         .\../Bin/Debug/CadIO\View.obj
+         .\../Bin/Debug/CadIO\CadIO.obj
+         .\../Bin/Debug/CadIO\StdAfx.obj
+            Creating library D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\..\Bin\x64\Debug\CadIO.lib and object D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\..\Bin\x64\Debug\CadIO.exp
+     1>LINK : fatal error LNK1104: cannot open file 'D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\..\Bin\x64\Debug\CadIO.lib'
+         The command exited with code 1104.
+       Done executing task "Link" -- FAILED.
+     1>Done building target "Link" in project "CadIO.vcxproj" -- FAILED.
+     1>Done Building Project "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+       "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (Rebuild target) (1) ->
+       (ClCompile target) -> 
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWEntities.cpp(553,45): warning C4311: 'type cast': pointer truncation from 'PDXF' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWEntities.cpp(553,45): warning C4302: 'type cast': truncation from 'PDXF' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWTables.cpp(492,26): warning C4244: '=': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWTables.cpp(499,27): warning C4244: '=': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWTables.cpp(508,2): warning C4311: 'type cast': pointer truncation from 'PDXF' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWTables.cpp(508,2): warning C4302: 'type cast': truncation from 'PDXF' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWTables.cpp(508,2): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWTables.cpp(553,45): warning C4311: 'type cast': pointer truncation from 'PDXF' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Write\DWTables.cpp(553,45): warning C4302: 'type cast': truncation from 'PDXF' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Base\DXFBase.cpp(230,94): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Base\DXFBase.cpp(238,93): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Base\DXFBase.cpp(248,94): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Base\DXFBase.cpp(451,93): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\DXFFile\Read\DXFRead.cpp(69,92): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(121,43): warning C4244: '=': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(833,63): warning C4244: '=': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(953,36): warning C4244: '=': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(973,2): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(973,2): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(973,2): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(974,2): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(974,2): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1235,2): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1235,2): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1235,2): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1238,2): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1238,2): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1265,2): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1265,2): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1265,2): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1268,2): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\MemDrw.cpp(1268,2): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+         D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Drawing\View\TextView.cpp(80,18): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+
+
+       "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (Rebuild target) (1) ->
+       (DoLinkOutputFilesMatch target) -> 
+         D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1341,5): warning MSB8012: TargetPath(D:\GNUHome\Projects\GamingAids\nightSky\x64\Debug\CadIO.dll) does not match the Linker's OutputFile property value (D:\GNUHome\Projects\GamingAids\nightSky\CadLib\Bin\x64\Debug\CadIO.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+
+
+       "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (Rebuild target) (1) ->
+         D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1342,5): warning MSB8012: TargetExt(.dll) does not match the Linker's OutputFile property value (.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+
+
+       "D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\CadIO.vcxproj" (Rebuild target) (1) ->
+       (Link target) -> 
+         LINK : fatal error LNK1104: cannot open file 'D:\GNUHome\Projects\GamingAids\nightSky\CadLib\CadIO\..\Bin\x64\Debug\CadIO.lib'
+
+    35 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.51
