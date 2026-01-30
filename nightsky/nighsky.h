@@ -121,6 +121,7 @@ private slots:
     void onView3D();
     void onZoomOut();
     void onZoomIn();
+    void onZoomFit();
     void onViewRedraw();
     void onViewStars();
     void onDispLum();
@@ -166,6 +167,7 @@ private:
 
     QAction*        m_pViewZoomIn;
     QAction*        m_pViewZoomOut;
+    QAction*        m_pViewZoomFit;
     QAction*        m_pViewRedraw;
     QAction*        m_pView3D;
     QAction*        m_pViewStars;
