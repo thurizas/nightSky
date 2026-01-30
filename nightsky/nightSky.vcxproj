@@ -69,6 +69,9 @@
     <Link>
       <AdditionalDependencies>ws2_32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
+    <ClCompile>
+      <PreprocessorDefinitions>__WIN32;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <PostBuildEvent>
@@ -77,6 +80,9 @@
     <Link>
       <AdditionalDependencies>ws2_32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
+    <ClCompile>
+      <PreprocessorDefinitions>__WIN32;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'" Label="Configuration">
     <ClCompile>
@@ -109,9 +115,11 @@
     <ClCompile Include="aboutDlg.cpp" />
     <ClCompile Include="CadLib.cpp" />
     <ClCompile Include="configDlg.cpp" />
+    <ClCompile Include="console.cpp" />
     <ClCompile Include="evDist.cpp" />
     <ClCompile Include="Grid.cpp" />
     <ClCompile Include="helpDlg.cpp" />
+    <ClCompile Include="logger.cpp" />
     <ClCompile Include="logo.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Mollweide.cpp" />
@@ -127,12 +135,14 @@
     <QtMoc Include="aboutDlg.h" />
     <QtMoc Include="configDlg.h" />
     <ClInclude Include="CadLib.h" />
+    <ClInclude Include="console.h" />
     <ClInclude Include="constants.h" />
     <ClInclude Include="DrawingDef.h" />
     <ClInclude Include="DXFDef.h" />
     <ClInclude Include="evDist.h" />
     <ClInclude Include="Grid.h" />
     <QtMoc Include="helpDlg.h" />
+    <ClInclude Include="logger.h" />
     <ClInclude Include="Orthographic.h" />
     <ClInclude Include="logo.h" />
     <ClInclude Include="Mollweide.h" />

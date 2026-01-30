@@ -22,6 +22,8 @@ public:
 protected:
 	void contextMenuEvent(QContextMenuEvent*);
 	void mouseMoveEvent(QMouseEvent*);
+	void mousePressEvent(QMouseEvent*);
+	void mouseReleaseEvent(QMouseEvent*);
 	void wheelEvent(QWheelEvent*);
 
 private:

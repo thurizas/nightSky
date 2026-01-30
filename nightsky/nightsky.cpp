@@ -181,6 +181,7 @@ void nightSky::setupMenu()
     QMenu*  viewMenu = menuBar()->addMenu("View");
     viewMenu->addAction(m_pViewZoomIn);
     viewMenu->addAction(m_pViewZoomOut);
+    viewMenu->addAction(m_pViewZoomFit);
     viewMenu->addAction(m_pViewRedraw);
     viewMenu->addSeparator();
     viewMenu->addAction(m_pViewStars);
@@ -259,6 +260,10 @@ void nightSky::setupActions()
     m_pViewZoomIn = new QAction("Zoom In", this);
     m_pViewZoomIn->setStatusTip("Zoom in on star-field");
     connect(m_pViewZoomIn, SIGNAL(triggered()), this, SLOT(onZoomIn()));
+
+    m_pViewZoomFit = new QAction("Zoom to Fit", this);
+    m_pViewZoomFit->setStatusTip("Zoom to fit window");
+    connect(m_pViewZoomFit, SIGNAL(triggered()), this, SLOT(onZoomFit()));
 
     m_pViewStars = new QAction("View Stars", this);
     m_pViewStars->setStatusTip("View details on generated stars");
@@ -1007,6 +1012,22 @@ void nightSky::onZoomIn()
 {
     if(NULL != m_canvas)
         m_canvas->scale(2.0, 2.0);
+}
+
+/**********************************************************************************************************************************************************************************
+ * function  : onZoomFit
+ *
+ * abstract  :
+ *
+ * parameters:
+ *
+ * returns   : void
+ *
+ * written   : GKHuber Apr 2026
+ ************************************************************************************************************************************************************************************/
+void nightSky::onZoomFit()
+{
+  m_canvas->fitInView(m_canvas->scene()->sceneRect(), Qt::KeepAspectRatio);
 }
 
 
